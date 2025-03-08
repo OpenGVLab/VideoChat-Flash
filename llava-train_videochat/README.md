@@ -14,7 +14,7 @@ In [data](.data), we have provided the data used in each training stage, along w
 
 
 | Stage | Num. frames | ViT | Connector | LLM | CKPT |
-|--------|:-------:|:------:|:------:|:------:|
+|--------|:-------:|:------:|:------:|:------:|:------:|
 | [stage1](scripts/train/stage1-init_connector) | 4 | :snowflake: | :fire: | :snowflake: | TBD |
 | [stage2](scripts/train/stage2-visual_pretraining) | 4-8 | :fire: | :fire: | :fire: | [UMT-Qwen2_7B](https://huggingface.co/OpenGVLab/stage2-UMT-Qwen2-7B-tome16_mlp), [UMT-Qwen2_5_1M_7B](https://huggingface.co/OpenGVLab/stage2-UMT-Qwen2_5_7B_1m-tome16_mlp), [UMT-HD-Qwen2_5_2B](https://huggingface.co/OpenGVLab/stage2-UMT-Qwen2_5_1.5B-tome16_mlp), [InternVideo2-Qwen2_5_7B](https://huggingface.co/OpenGVLab/stage2-InternVideo2-1B-Qwen2_5-7B-tome16_mlp) |
 | [stage3](scripts/train/stage3-video_sft) | 64-512 | :fire: | :fire: | :fire: | [UMT-Qwen2_7B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2-7B_res448),[UMT-HD-Qwen2_5-2B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-2B_res448),[UMT-Qwen2_5_1M_7B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-7B-1M_res224), [InternVideo2-Qwen2_5_7B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-7B_InternVideo2-1B) |

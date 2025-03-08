@@ -1,0 +1,10 @@
+{
+    "caption_ft_data_3k": {
+        "root": "your_videos_path",
+        "annotation": "data/annotaions/ft_data_example.jsonl",
+        "length": 2111,
+        "data_augment": false,
+        "repeat_time": 1,
+        "sampling_strategy": "all"
+    }
+}

@@ -1,10 +1,10 @@
 datasets:
   # image sft datasets, 6w
 
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/image/synthdog_zh_processed.json
+  - json_path: annotations/image/synthdog_zh_processed.json
     data_root: phdd2:s3://OneVision/OneVision-Mid-Data/synthdog_zh/synthdog_zh_images/
     sampling_strategy: "first:10%"
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/image/synthdog_en_processed.json
+  - json_path: annotations/image/synthdog_en_processed.json
     data_root: phdd2:s3://OneVision/OneVision-Mid-Data/synthdog_en/synthdog_en_images/
     sampling_strategy: "first:10%"
 
@@ -324,22 +324,22 @@ datasets:
     sampling_strategy: "first:25%"
     data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
 
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/video/timeit_ANet-TimeIT-Activitynet_Captions_11k.json
+  - json_path: annotations/video/timeit_ANet-TimeIT-Activitynet_Captions_11k.json
     sampling_strategy: "first:25%"
     data_root: http://activity-net.org//train
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/video/timeit_COIN-TimeIT-COIN_10k.json
+  - json_path: annotations/video/timeit_COIN-TimeIT-COIN_10k.json
     sampling_strategy: "first:25%"
     data_root: https://coin-dataset.github.io/
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/video/timeit_DiDeMo-TimeIT-DiDeMo_33k.json
+  - json_path: annotations/video/timeit_DiDeMo-TimeIT-DiDeMo_33k.json
     sampling_strategy: "first:25%"
     data_root: https://github.com/LisaAnne/TemporalLanguageRelease
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/video/timeit_HiREST-TimeIT-HiREST_1k.json
+  - json_path: annotations/video/timeit_HiREST-TimeIT-HiREST_1k.json
     sampling_strategy: "first:25%"
     data_root: https://hirest-cvpr2023.github.io/
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/video/timeit_QuerYD-TimeIT-QuerYD_15k.json
+  - json_path: annotations/video/timeit_QuerYD-TimeIT-QuerYD_15k.json
     sampling_strategy: "first:25%"
     data_root: https://www.robots.ox.ac.uk/~vgg/data/queryd/
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/video/timeit_ViTT-TimeIT-ViTT_6k.json
+  - json_path: annotations/video/timeit_ViTT-TimeIT-ViTT_6k.json
     sampling_strategy: "first:25%"
     data_root: https://github.com/google-research-datasets/Video-Timeline-Tags-ViTT
 
@@ -352,19 +352,19 @@ datasets:
 
 
 
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/video/htstep_eventunderstanding-longvideo_annos-htstep_eventunderstanding_1k_1k.json
+  - json_path: annotations/video/htstep_eventunderstanding-longvideo_annos-htstep_eventunderstanding_1k_1k.json
     sampling_strategy: "first:25%"
     video_read_type: img
     data_root: https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data/tree/main/longvid_subset
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/video/htstep_eventcount-longvideo_annos-htstep_eventcount_2k_2k.json
+  - json_path: annotations/video/htstep_eventcount-longvideo_annos-htstep_eventcount_2k_2k.json
     sampling_strategy: "first:25%"
     video_read_type: img
     data_root: https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data/tree/main/longvid_subset
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/video/htstep_eventrelationship-longvideo_annos-htstep_eventrelationship_1k_1k.json
+  - json_path: annotations/video/htstep_eventrelationship-longvideo_annos-htstep_eventrelationship_1k_1k.json
     sampling_strategy: "first:25%"
     video_read_type: img
     data_root: https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data/tree/main/longvid_subset
-  - json_path: /mnt/petrelfs/share_data/lixinhao/videochat-next/annotations/video/ego4dhcap_eventunderstanding-longvideo_annos-ego4dhcap_eventunderstanding_2k_2k.json
+  - json_path: annotations/video/ego4dhcap_eventunderstanding-longvideo_annos-ego4dhcap_eventunderstanding_2k_2k.json
     sampling_strategy: "first:25%"
     video_read_type: img
     data_root: https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data/tree/main/longvid_subset

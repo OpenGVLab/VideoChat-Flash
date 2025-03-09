@@ -199,13 +199,6 @@ datasets:
     data_root: https://gui-world.github.io/
 
 
-
-## longVid
-  - json_path: annotations/video/longvid_subset.jsonl
-    sampling_strategy: "first:25%"
-    video_read_type: img
-    data_root: https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data/videos/longvid_subset
-
 ## llava video
   - json_path: annotations/video/llava-video_2_3_m_academic_mc_v0_1_qa_processed_6901_with_duration.jsonl
     sampling_strategy: "first:25%"

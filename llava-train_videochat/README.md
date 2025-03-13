@@ -20,6 +20,13 @@ In [data](.data), we have provided the data used in each training stage, along w
 | [stage3](scripts/train/stage3-video_sft) | 64-512 | :fire: | :fire: | :fire: | [UMT-Qwen2_7B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2-7B_res448),[UMT-HD-Qwen2_5-2B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-2B_res448),[UMT-Qwen2_5_1M_7B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-7B-1M_res224), [InternVideo2-Qwen2_5_7B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-7B_InternVideo2-1B) |
 | [stage4](scripts/train/stage4_highres_postft) | 64-512 | :fire: | :fire: | :snowflake: | [UMT-HD-Qwen2-7B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2-7B_res448)|
 
+Traing time with a 32 A100:
+- stage1: under one hour:
+- stage2: about 2 day
+- stage3: about 2~3day
+- stage4: about 2~3day
+We recommend to start from stage3 based on our provided stage2 model, And you could use 1/4 stage3 data for ablation (as we do)! And you could ignore stage4 if you don't need a absolute SoTA performance!
+
 ### Install
 
 ```bash

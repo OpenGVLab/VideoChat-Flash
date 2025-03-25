@@ -25,7 +25,8 @@ Training time with a 32 A100:
 - stage2: about 2 day
 - stage3: about 2~3day
 - stage4: about 2~3day
-We recommend to start from stage3 based on our provided stage2 model, ***And you could use 1/4 stage3 data for ablation (as we do)! And you could ignore stage4 if you don't need a absolute SoTA performance!***
+  
+***We recommend to start from stage3 based on our provided stage2 model to save training cost, and you could use 1/4 stage3 data for ablation (as we do)! You also could ignore stage4 if you don't need a absolute SoTA performance!***
 
 ### Install
 

@@ -1,13 +1,13 @@
 [
     {
         "images": [
-            "niah/niah_651_5_COCO_val2014_000000353320.jpg",
-            "niah/niah_651_6_COCO_val2014_000000448236.jpg",
-            "niah/niah_651_3_COCO_val2014_000000034749.jpg",
-            "niah/niah_651_2_COCO_val2014_000000537827.jpg",
-            "niah/niah_651_1_COCO_val2014_000000474034.jpg",
-            "val2014/COCO_val2014_000000446603.jpg",
-            "niah/niah_651_7_COCO_val2014_000000458861.jpg"
+            "multi/niah_651_5_COCO_val2014_000000353320.jpg",
+            "multi/niah_651_6_COCO_val2014_000000448236.jpg",
+            "multi/niah_651_3_COCO_val2014_000000034749.jpg",
+            "multi/niah_651_2_COCO_val2014_000000537827.jpg",
+            "multi/niah_651_1_COCO_val2014_000000474034.jpg",
+            "multi/COCO_val2014_000000446603.jpg",
+            "multi/niah_651_7_COCO_val2014_000000458861.jpg"
         ],
         "question1": "Find the frame of a person skateboarding on a sidewalk at night. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) two black suitcases one is open and a white bag\n(B) two people riding skate board down a steep road\n(C) A guitar case sits among luggage on a metal bench.\n(D) A frisbee and a guitar lay on a bed.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -16,12 +16,12 @@
     },
     {
         "images": [
-            "niah/niah_70_5_COCO_val2014_000000220871.jpg",
-            "niah/niah_70_4_COCO_val2014_000000233888.jpg",
-            "val2014/COCO_val2014_000000037814.jpg",
-            "niah/niah_70_6_COCO_val2014_000000037988.jpg",
-            "niah/niah_70_2_COCO_val2014_000000350505.jpg",
-            "niah/niah_70_1_COCO_val2014_000000198775.jpg"
+            "multi/niah_70_5_COCO_val2014_000000220871.jpg",
+            "multi/niah_70_4_COCO_val2014_000000233888.jpg",
+            "multi/COCO_val2014_000000037814.jpg",
+            "multi/niah_70_6_COCO_val2014_000000037988.jpg",
+            "multi/niah_70_2_COCO_val2014_000000350505.jpg",
+            "multi/niah_70_1_COCO_val2014_000000198775.jpg"
         ],
         "question1": "Find the frame of how many people are able to fit into this itty-bitty car? Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a man that is holding some kind of surfboard\n(B) A pair of scissors, thread, construction paper and a cell phone.\n(C) Boy in the motion of swinging at an incoming baseball. \n(D) A woman tennise player standing at the service line and throwing a tennis ball up in the air to serve it.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -30,13 +30,13 @@
     },
     {
         "images": [
-            "niah/niah_722_3_COCO_val2014_000000428175.jpg",
-            "niah/niah_722_7_COCO_val2014_000000122251.jpg",
-            "niah/niah_722_2_COCO_val2014_000000436605.jpg",
-            "niah/niah_722_5_COCO_val2014_000000150639.jpg",
-            "niah/niah_722_6_COCO_val2014_000000488664.jpg",
-            "niah/niah_722_1_COCO_val2014_000000440043.jpg",
-            "val2014/COCO_val2014_000000377723.jpg"
+            "multi/niah_722_3_COCO_val2014_000000428175.jpg",
+            "multi/niah_722_7_COCO_val2014_000000122251.jpg",
+            "multi/niah_722_2_COCO_val2014_000000436605.jpg",
+            "multi/niah_722_5_COCO_val2014_000000150639.jpg",
+            "multi/niah_722_6_COCO_val2014_000000488664.jpg",
+            "multi/niah_722_1_COCO_val2014_000000440043.jpg",
+            "multi/COCO_val2014_000000377723.jpg"
         ],
         "question1": "Find the frame of a double decker red bus parked next to another double decker bus. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A boat that is in a body of water.\n(B) A man with glasses is talking on the phone.\n(C) group of people waiting to get onto a bus in the city\n(D) A blue and white training passing houses while emitting smoke.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -45,13 +45,13 @@
     },
     {
         "images": [
-            "niah/niah_672_7_COCO_val2014_000000383621.jpg",
-            "niah/niah_672_2_COCO_val2014_000000322610.jpg",
-            "niah/niah_672_5_COCO_val2014_000000555012.jpg",
-            "niah/niah_672_3_COCO_val2014_000000370475.jpg",
-            "niah/niah_672_6_COCO_val2014_000000031601.jpg",
-            "niah/niah_672_1_COCO_val2014_000000254653.jpg",
-            "val2014/COCO_val2014_000000468345.jpg"
+            "multi/niah_672_7_COCO_val2014_000000383621.jpg",
+            "multi/niah_672_2_COCO_val2014_000000322610.jpg",
+            "multi/niah_672_5_COCO_val2014_000000555012.jpg",
+            "multi/niah_672_3_COCO_val2014_000000370475.jpg",
+            "multi/niah_672_6_COCO_val2014_000000031601.jpg",
+            "multi/niah_672_1_COCO_val2014_000000254653.jpg",
+            "multi/COCO_val2014_000000468345.jpg"
         ],
         "question1": "Find the frame of a red white and black bus and some bushes and trees Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A white plane flies in the cloudy sky.\n(B) THERE IS AN IMAG EOF A TRAIN OVER A BRIDGE\n(C) a bathroom done in almost total white \n(D) A man skateboards down a road in front of a tractor. \nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -60,13 +60,13 @@
     },
     {
         "images": [
-            "niah/niah_454_2_COCO_val2014_000000306855.jpg",
-            "niah/niah_454_7_COCO_val2014_000000518203.jpg",
-            "niah/niah_454_5_COCO_val2014_000000081469.jpg",
-            "niah/niah_454_3_COCO_val2014_000000503144.jpg",
-            "niah/niah_454_1_COCO_val2014_000000523957.jpg",
-            "niah/niah_454_6_COCO_val2014_000000290828.jpg",
-            "val2014/COCO_val2014_000000386589.jpg"
+            "multi/niah_454_2_COCO_val2014_000000306855.jpg",
+            "multi/niah_454_7_COCO_val2014_000000518203.jpg",
+            "multi/niah_454_5_COCO_val2014_000000081469.jpg",
+            "multi/niah_454_3_COCO_val2014_000000503144.jpg",
+            "multi/niah_454_1_COCO_val2014_000000523957.jpg",
+            "multi/niah_454_6_COCO_val2014_000000290828.jpg",
+            "multi/COCO_val2014_000000386589.jpg"
         ],
         "question1": "Find the frame of a Skateboarder weaving in and out of cones Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) The bed is located between the two windows.\n(B) A girl on a horse riding around the practice course.\n(C) a red and white jet is taking off and some buildings\n(D) a big giraffe eats some tree leafs \nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -75,12 +75,12 @@
     },
     {
         "images": [
-            "niah/niah_429_6_COCO_val2014_000000359066.jpg",
-            "val2014/COCO_val2014_000000111619.jpg",
-            "niah/niah_429_1_COCO_val2014_000000319721.jpg",
-            "niah/niah_429_2_COCO_val2014_000000509589.jpg",
-            "niah/niah_429_5_COCO_val2014_000000120199.jpg",
-            "niah/niah_429_4_COCO_val2014_000000355860.jpg"
+            "multi/niah_429_6_COCO_val2014_000000359066.jpg",
+            "multi/COCO_val2014_000000111619.jpg",
+            "multi/niah_429_1_COCO_val2014_000000319721.jpg",
+            "multi/niah_429_2_COCO_val2014_000000509589.jpg",
+            "multi/niah_429_5_COCO_val2014_000000120199.jpg",
+            "multi/niah_429_4_COCO_val2014_000000355860.jpg"
         ],
         "question1": "Find the frame of a woman hold a brown horse while a woman watches. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Giraffe standing next to a tree near a pond.\n(B) A tour bus belonging to the Marines on a street with other buses\n(C) A mushroom, pepperoni, pepper pizza on a cooling rack.\n(D) a woman in red is riding a horse\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -89,12 +89,12 @@
     },
     {
         "images": [
-            "niah/niah_804_4_COCO_val2014_000000090626.jpg",
-            "niah/niah_804_2_COCO_val2014_000000367848.jpg",
-            "val2014/COCO_val2014_000000167898.jpg",
-            "niah/niah_804_5_COCO_val2014_000000433993.jpg",
-            "niah/niah_804_1_COCO_val2014_000000345456.jpg",
-            "niah/niah_804_6_COCO_val2014_000000346138.jpg"
+            "multi/niah_804_4_COCO_val2014_000000090626.jpg",
+            "multi/niah_804_2_COCO_val2014_000000367848.jpg",
+            "multi/COCO_val2014_000000167898.jpg",
+            "multi/niah_804_5_COCO_val2014_000000433993.jpg",
+            "multi/niah_804_1_COCO_val2014_000000345456.jpg",
+            "multi/niah_804_6_COCO_val2014_000000346138.jpg"
         ],
         "question1": "Find the frame of a yellow bus is coming down the tracks Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a woman and her kids sitting on a brown couch \n(B) a bath room with a sink a toilet and a mirror\n(C) some pasta dishes are in plates and bowls\n(D) Empty Asian city bus stopped on a hill.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -103,13 +103,13 @@
     },
     {
         "images": [
-            "niah/niah_119_1_COCO_val2014_000000050392.jpg",
-            "niah/niah_119_2_COCO_val2014_000000475387.jpg",
-            "niah/niah_119_7_COCO_val2014_000000205222.jpg",
-            "niah/niah_119_6_COCO_val2014_000000560427.jpg",
-            "niah/niah_119_3_COCO_val2014_000000369082.jpg",
-            "niah/niah_119_5_COCO_val2014_000000400062.jpg",
-            "val2014/COCO_val2014_000000409500.jpg"
+            "multi/niah_119_1_COCO_val2014_000000050392.jpg",
+            "multi/niah_119_2_COCO_val2014_000000475387.jpg",
+            "multi/niah_119_7_COCO_val2014_000000205222.jpg",
+            "multi/niah_119_6_COCO_val2014_000000560427.jpg",
+            "multi/niah_119_3_COCO_val2014_000000369082.jpg",
+            "multi/niah_119_5_COCO_val2014_000000400062.jpg",
+            "multi/COCO_val2014_000000409500.jpg"
         ],
         "question1": "Find the frame of a kitchen that has a stove and counters in it. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A partially eaten pastry is on a plate.\n(B) A bacon, eggs, and toast breakfast complete with coffee and orange juice.\n(C) an image of a poorly lit old bathroom\n(D) A man is bending forward to catch a Frisbee.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -118,12 +118,12 @@
     },
     {
         "images": [
-            "niah/niah_447_2_COCO_val2014_000000159260.jpg",
-            "val2014/COCO_val2014_000000323496.jpg",
-            "niah/niah_447_4_COCO_val2014_000000538792.jpg",
-            "niah/niah_447_1_COCO_val2014_000000157378.jpg",
-            "niah/niah_447_6_COCO_val2014_000000095808.jpg",
-            "niah/niah_447_5_COCO_val2014_000000430756.jpg"
+            "multi/niah_447_2_COCO_val2014_000000159260.jpg",
+            "multi/COCO_val2014_000000323496.jpg",
+            "multi/niah_447_4_COCO_val2014_000000538792.jpg",
+            "multi/niah_447_1_COCO_val2014_000000157378.jpg",
+            "multi/niah_447_6_COCO_val2014_000000095808.jpg",
+            "multi/niah_447_5_COCO_val2014_000000430756.jpg"
         ],
         "question1": "Find the frame of a vase of flowers is pictured in this image. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a person and a brown and white horse\n(B) A man rides a skateboard while people are running a foot race.\n(C) a motorcycle parked between two poles and one other motorcycle \n(D) A LITTLE BOY PLAYING A GAME OF TENNIS \nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -132,11 +132,11 @@
     },
     {
         "images": [
-            "niah/niah_595_4_COCO_val2014_000000491216.jpg",
-            "niah/niah_595_3_COCO_val2014_000000537506.jpg",
-            "val2014/COCO_val2014_000000150616.jpg",
-            "niah/niah_595_1_COCO_val2014_000000220871.jpg",
-            "niah/niah_595_5_COCO_val2014_000000248395.jpg"
+            "multi/niah_595_4_COCO_val2014_000000491216.jpg",
+            "multi/niah_595_3_COCO_val2014_000000537506.jpg",
+            "multi/COCO_val2014_000000150616.jpg",
+            "multi/niah_595_1_COCO_val2014_000000220871.jpg",
+            "multi/niah_595_5_COCO_val2014_000000248395.jpg"
         ],
         "question1": "Find the frame of a man that is holding some kind of surfboard Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A man holds a small animal in front of a camera.\n(B) A group of people wait near a wedding procession of cars, one of them holding two apples.\n(C) A cat is walking across a rug on a kitchen floor.\n(D) A look at a wallpapered bathroom, with a ships window.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -145,13 +145,13 @@
     },
     {
         "images": [
-            "niah/niah_369_7_COCO_val2014_000000387244.jpg",
-            "niah/niah_369_2_COCO_val2014_000000370765.jpg",
-            "niah/niah_369_3_COCO_val2014_000000122203.jpg",
-            "niah/niah_369_6_COCO_val2014_000000026465.jpg",
-            "niah/niah_369_5_COCO_val2014_000000138492.jpg",
-            "val2014/COCO_val2014_000000274651.jpg",
-            "niah/niah_369_1_COCO_val2014_000000386581.jpg"
+            "multi/niah_369_7_COCO_val2014_000000387244.jpg",
+            "multi/niah_369_2_COCO_val2014_000000370765.jpg",
+            "multi/niah_369_3_COCO_val2014_000000122203.jpg",
+            "multi/niah_369_6_COCO_val2014_000000026465.jpg",
+            "multi/niah_369_5_COCO_val2014_000000138492.jpg",
+            "multi/COCO_val2014_000000274651.jpg",
+            "multi/niah_369_1_COCO_val2014_000000386581.jpg"
         ],
         "question1": "Find the frame of a police horse tied to a parking meter as the cop writes a ticket Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A Philly cheese steak sandwich is sitting on a plate.\n(B) A black and white dog jumping up catching a Frisbee.\n(C) Water is slowly flowing from a fire hydrant.\n(D) A laptop computer is sitting on a desk.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -160,13 +160,13 @@
     },
     {
         "images": [
-            "niah/niah_464_5_COCO_val2014_000000108904.jpg",
-            "niah/niah_464_1_COCO_val2014_000000473936.jpg",
-            "val2014/COCO_val2014_000000119120.jpg",
-            "niah/niah_464_7_COCO_val2014_000000094185.jpg",
-            "niah/niah_464_3_COCO_val2014_000000326542.jpg",
-            "niah/niah_464_6_COCO_val2014_000000318238.jpg",
-            "niah/niah_464_2_COCO_val2014_000000096769.jpg"
+            "multi/niah_464_5_COCO_val2014_000000108904.jpg",
+            "multi/niah_464_1_COCO_val2014_000000473936.jpg",
+            "multi/COCO_val2014_000000119120.jpg",
+            "multi/niah_464_7_COCO_val2014_000000094185.jpg",
+            "multi/niah_464_3_COCO_val2014_000000326542.jpg",
+            "multi/niah_464_6_COCO_val2014_000000318238.jpg",
+            "multi/niah_464_2_COCO_val2014_000000096769.jpg"
         ],
         "question1": "Find the frame of motorcycle parked perpendicular on side of city street at night. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A man and his white dog playing Frisbee on a grassy hill.\n(B) Three dogs are sleeping across the length of the bed.\n(C) A large teddy bear sits in front of the store.\n(D) A counter showing two hot dogs and a side of fries with a drink\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -175,11 +175,11 @@
     },
     {
         "images": [
-            "niah/niah_745_1_COCO_val2014_000000352093.jpg",
-            "niah/niah_745_4_COCO_val2014_000000482100.jpg",
-            "val2014/COCO_val2014_000000460683.jpg",
-            "niah/niah_745_3_COCO_val2014_000000032812.jpg",
-            "niah/niah_745_5_COCO_val2014_000000268371.jpg"
+            "multi/niah_745_1_COCO_val2014_000000352093.jpg",
+            "multi/niah_745_4_COCO_val2014_000000482100.jpg",
+            "multi/COCO_val2014_000000460683.jpg",
+            "multi/niah_745_3_COCO_val2014_000000032812.jpg",
+            "multi/niah_745_5_COCO_val2014_000000268371.jpg"
         ],
         "question1": "Find the frame of two big soup bowls with a large spoon hanging . Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A man that has the ten commandments on his tie\n(B) The jets are flying very close to each other in the sky.\n(C) Two toilets sit outside on the pavement next to a yard with many decorations.\n(D) A girl swings a net a tennis ball. \nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -188,11 +188,11 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000085787.jpg",
-            "niah/niah_735_4_COCO_val2014_000000553667.jpg",
-            "niah/niah_735_5_COCO_val2014_000000489920.jpg",
-            "niah/niah_735_1_COCO_val2014_000000561009.jpg",
-            "niah/niah_735_3_COCO_val2014_000000416827.jpg"
+            "multi/COCO_val2014_000000085787.jpg",
+            "multi/niah_735_4_COCO_val2014_000000553667.jpg",
+            "multi/niah_735_5_COCO_val2014_000000489920.jpg",
+            "multi/niah_735_1_COCO_val2014_000000561009.jpg",
+            "multi/niah_735_3_COCO_val2014_000000416827.jpg"
         ],
         "question1": "Find the frame of a bird sits perched on a tree branch. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A bench sitting in front of a brick wall on a patio.\n(B) A kid hanging out a window while holding an umbrella.\n(C) A train travels down the tracks through a rural valley with mountains in the background.\n(D) an african american child wearing a green shirt eating a sandwich\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -201,11 +201,11 @@
     },
     {
         "images": [
-            "niah/niah_206_1_COCO_val2014_000000559270.jpg",
-            "val2014/COCO_val2014_000000225014.jpg",
-            "niah/niah_206_4_COCO_val2014_000000332923.jpg",
-            "niah/niah_206_5_COCO_val2014_000000388267.jpg",
-            "niah/niah_206_3_COCO_val2014_000000224222.jpg"
+            "multi/niah_206_1_COCO_val2014_000000559270.jpg",
+            "multi/COCO_val2014_000000225014.jpg",
+            "multi/niah_206_4_COCO_val2014_000000332923.jpg",
+            "multi/niah_206_5_COCO_val2014_000000388267.jpg",
+            "multi/niah_206_3_COCO_val2014_000000224222.jpg"
         ],
         "question1": "Find the frame of a classic car with a lady inside sitting in a parking lot. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) three men out on the ocean water two of the men watching their friend surf waves blue oceans water a man wearing a green shirt and yellow shorts\n(B) A white clock tower is a nice day.\n(C) A person standing with a umbrella standing by a rail.\n(D) A large bear mascot is riding in a red Pontiac.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -214,12 +214,12 @@
     },
     {
         "images": [
-            "niah/niah_111_1_COCO_val2014_000000032364.jpg",
-            "val2014/COCO_val2014_000000199387.jpg",
-            "niah/niah_111_2_COCO_val2014_000000545924.jpg",
-            "niah/niah_111_4_COCO_val2014_000000308856.jpg",
-            "niah/niah_111_6_COCO_val2014_000000139740.jpg",
-            "niah/niah_111_5_COCO_val2014_000000557510.jpg"
+            "multi/niah_111_1_COCO_val2014_000000032364.jpg",
+            "multi/COCO_val2014_000000199387.jpg",
+            "multi/niah_111_2_COCO_val2014_000000545924.jpg",
+            "multi/niah_111_4_COCO_val2014_000000308856.jpg",
+            "multi/niah_111_6_COCO_val2014_000000139740.jpg",
+            "multi/niah_111_5_COCO_val2014_000000557510.jpg"
         ],
         "question1": "Find the frame of a woman flies a kite in the blue sky. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a white cup is sitting on a blue thing\n(B) A woman looks carefully as she smacks the tennis ball.\n(C) a person is adjusting skis on  the slopes\n(D) a close up of a public transit train parked near other vehicles\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -228,11 +228,11 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000297444.jpg",
-            "niah/niah_490_4_COCO_val2014_000000008647.jpg",
-            "niah/niah_490_1_COCO_val2014_000000398567.jpg",
-            "niah/niah_490_5_COCO_val2014_000000509750.jpg",
-            "niah/niah_490_3_COCO_val2014_000000265153.jpg"
+            "multi/COCO_val2014_000000297444.jpg",
+            "multi/niah_490_4_COCO_val2014_000000008647.jpg",
+            "multi/niah_490_1_COCO_val2014_000000398567.jpg",
+            "multi/niah_490_5_COCO_val2014_000000509750.jpg",
+            "multi/niah_490_3_COCO_val2014_000000265153.jpg"
         ],
         "question1": "Find the frame of a computer desk with various items around it. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) many different buildings near one another near trees\n(B) A chocolate cake for a ninety second birthday.\n(C) One lama in front of another lama standing outdoors.\n(D) A statue of an elephant is painted many colors\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -241,12 +241,12 @@
     },
     {
         "images": [
-            "niah/niah_428_1_COCO_val2014_000000074743.jpg",
-            "niah/niah_428_6_COCO_val2014_000000101715.jpg",
-            "niah/niah_428_2_COCO_val2014_000000352496.jpg",
-            "niah/niah_428_4_COCO_val2014_000000183500.jpg",
-            "val2014/COCO_val2014_000000273083.jpg",
-            "niah/niah_428_5_COCO_val2014_000000441969.jpg"
+            "multi/niah_428_1_COCO_val2014_000000074743.jpg",
+            "multi/niah_428_6_COCO_val2014_000000101715.jpg",
+            "multi/niah_428_2_COCO_val2014_000000352496.jpg",
+            "multi/niah_428_4_COCO_val2014_000000183500.jpg",
+            "multi/COCO_val2014_000000273083.jpg",
+            "multi/niah_428_5_COCO_val2014_000000441969.jpg"
         ],
         "question1": "Find the frame of some sort of a blue sofa sits in a small room; a mirror and a picture hang above it.  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) There are plants on a table on an apartment balcony.\n(B) Food items next to beverage displayed on wooden surface.\n(C) White and red biplane flying through the air. \n(D) A dog is very interested in a pizza that is on the table.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -255,13 +255,13 @@
     },
     {
         "images": [
-            "niah/niah_38_6_COCO_val2014_000000437497.jpg",
-            "niah/niah_38_2_COCO_val2014_000000073696.jpg",
-            "val2014/COCO_val2014_000000426835.jpg",
-            "niah/niah_38_1_COCO_val2014_000000451598.jpg",
-            "niah/niah_38_5_COCO_val2014_000000553588.jpg",
-            "niah/niah_38_7_COCO_val2014_000000156102.jpg",
-            "niah/niah_38_3_COCO_val2014_000000356241.jpg"
+            "multi/niah_38_6_COCO_val2014_000000437497.jpg",
+            "multi/niah_38_2_COCO_val2014_000000073696.jpg",
+            "multi/COCO_val2014_000000426835.jpg",
+            "multi/niah_38_1_COCO_val2014_000000451598.jpg",
+            "multi/niah_38_5_COCO_val2014_000000553588.jpg",
+            "multi/niah_38_7_COCO_val2014_000000156102.jpg",
+            "multi/niah_38_3_COCO_val2014_000000356241.jpg"
         ],
         "question1": "Find the frame of the hot dog is longer than the bun and has nacho cheese squeezed onto it.  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Batter took a swing at the ball during the baseball game\n(B) a white dog in an orange vest and a man in a blue shirt and water\n(C) Two boys carrying hot dogs and other snacks at an outdoor sporting event.\n(D) Looking up at a building with a large face clock near the top.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -270,12 +270,12 @@
     },
     {
         "images": [
-            "niah/niah_102_4_COCO_val2014_000000304706.jpg",
-            "niah/niah_102_1_COCO_val2014_000000231140.jpg",
-            "niah/niah_102_6_COCO_val2014_000000563702.jpg",
-            "niah/niah_102_5_COCO_val2014_000000537132.jpg",
-            "val2014/COCO_val2014_000000462845.jpg",
-            "niah/niah_102_2_COCO_val2014_000000461758.jpg"
+            "multi/niah_102_4_COCO_val2014_000000304706.jpg",
+            "multi/niah_102_1_COCO_val2014_000000231140.jpg",
+            "multi/niah_102_6_COCO_val2014_000000563702.jpg",
+            "multi/niah_102_5_COCO_val2014_000000537132.jpg",
+            "multi/COCO_val2014_000000462845.jpg",
+            "multi/niah_102_2_COCO_val2014_000000461758.jpg"
         ],
         "question1": "Find the frame of several zebras in front of a building with steeples. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Two large pizzas sitting on wire cooling racks.\n(B) A group of people gathering around a table displaying wine.\n(C) There is a woman playing a game of tennis.\n(D) Firefighters and three firetrucks are parked on a street.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -284,13 +284,13 @@
     },
     {
         "images": [
-            "niah/niah_520_5_COCO_val2014_000000229067.jpg",
-            "niah/niah_520_6_COCO_val2014_000000342515.jpg",
-            "niah/niah_520_2_COCO_val2014_000000429710.jpg",
-            "val2014/COCO_val2014_000000015596.jpg",
-            "niah/niah_520_3_COCO_val2014_000000520489.jpg",
-            "niah/niah_520_7_COCO_val2014_000000440184.jpg",
-            "niah/niah_520_1_COCO_val2014_000000277543.jpg"
+            "multi/niah_520_5_COCO_val2014_000000229067.jpg",
+            "multi/niah_520_6_COCO_val2014_000000342515.jpg",
+            "multi/niah_520_2_COCO_val2014_000000429710.jpg",
+            "multi/COCO_val2014_000000015596.jpg",
+            "multi/niah_520_3_COCO_val2014_000000520489.jpg",
+            "multi/niah_520_7_COCO_val2014_000000440184.jpg",
+            "multi/niah_520_1_COCO_val2014_000000277543.jpg"
         ],
         "question1": "Find the frame of a bunch of identical bear key chains with green clovers hand on a turn rack.  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A group of people ski down the mountain slope.\n(B) two people riding motorcycles near one another \n(C) 6 motorcycles are sitting outside a shop in the grass.\n(D) A group of people playing tennis on a sunny day\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -299,13 +299,13 @@
     },
     {
         "images": [
-            "niah/niah_929_5_COCO_val2014_000000461759.jpg",
-            "niah/niah_929_2_COCO_val2014_000000420490.jpg",
-            "val2014/COCO_val2014_000000288874.jpg",
-            "niah/niah_929_7_COCO_val2014_000000122745.jpg",
-            "niah/niah_929_3_COCO_val2014_000000545735.jpg",
-            "niah/niah_929_6_COCO_val2014_000000269344.jpg",
-            "niah/niah_929_1_COCO_val2014_000000552302.jpg"
+            "multi/niah_929_5_COCO_val2014_000000461759.jpg",
+            "multi/niah_929_2_COCO_val2014_000000420490.jpg",
+            "multi/COCO_val2014_000000288874.jpg",
+            "multi/niah_929_7_COCO_val2014_000000122745.jpg",
+            "multi/niah_929_3_COCO_val2014_000000545735.jpg",
+            "multi/niah_929_6_COCO_val2014_000000269344.jpg",
+            "multi/niah_929_1_COCO_val2014_000000552302.jpg"
         ],
         "question1": "Find the frame of an air traffic controller stands in front of a large plane. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a dog jumping in the air with a frisbee in its mouth\n(B) A shelf with dishes and a clock in a mirror reflection.\n(C) A large lit clock with a Colgate sign.\n(D) a vandalized stop sign in the dark with a sky background\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -314,13 +314,13 @@
     },
     {
         "images": [
-            "niah/niah_746_5_COCO_val2014_000000061693.jpg",
-            "niah/niah_746_1_COCO_val2014_000000535643.jpg",
-            "val2014/COCO_val2014_000000482233.jpg",
-            "niah/niah_746_7_COCO_val2014_000000488997.jpg",
-            "niah/niah_746_2_COCO_val2014_000000555066.jpg",
-            "niah/niah_746_6_COCO_val2014_000000014380.jpg",
-            "niah/niah_746_3_COCO_val2014_000000271759.jpg"
+            "multi/niah_746_5_COCO_val2014_000000061693.jpg",
+            "multi/niah_746_1_COCO_val2014_000000535643.jpg",
+            "multi/COCO_val2014_000000482233.jpg",
+            "multi/niah_746_7_COCO_val2014_000000488997.jpg",
+            "multi/niah_746_2_COCO_val2014_000000555066.jpg",
+            "multi/niah_746_6_COCO_val2014_000000014380.jpg",
+            "multi/niah_746_3_COCO_val2014_000000271759.jpg"
         ],
         "question1": "Find the frame of a toilet and urinal against a pink tiled wall.  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Stop sign and street signs in a residential neighborhood.\n(B) A car bridge going over a commuter train.\n(C) White vase holding holding an assortment of flowers \n(D) A man uses the computer while sitting at a table.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -329,12 +329,12 @@
     },
     {
         "images": [
-            "niah/niah_731_1_COCO_val2014_000000497344.jpg",
-            "niah/niah_731_5_COCO_val2014_000000552824.jpg",
-            "niah/niah_731_6_COCO_val2014_000000290957.jpg",
-            "val2014/COCO_val2014_000000411559.jpg",
-            "niah/niah_731_2_COCO_val2014_000000223090.jpg",
-            "niah/niah_731_4_COCO_val2014_000000259976.jpg"
+            "multi/niah_731_1_COCO_val2014_000000497344.jpg",
+            "multi/niah_731_5_COCO_val2014_000000552824.jpg",
+            "multi/niah_731_6_COCO_val2014_000000290957.jpg",
+            "multi/COCO_val2014_000000411559.jpg",
+            "multi/niah_731_2_COCO_val2014_000000223090.jpg",
+            "multi/niah_731_4_COCO_val2014_000000259976.jpg"
         ],
         "question1": "Find the frame of a blue-eyed toddler talks on the cellphone while he types something on the laptop. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A tray of several chocolate frosted donuts sitting on a doily.\n(B) a horse grazes on some grass in front of a tree\n(C) A man flyng a kite with two hands\n(D) A garage door leading out to a fancy car.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -343,13 +343,13 @@
     },
     {
         "images": [
-            "niah/niah_701_2_COCO_val2014_000000467742.jpg",
-            "niah/niah_701_6_COCO_val2014_000000287714.jpg",
-            "niah/niah_701_3_COCO_val2014_000000263355.jpg",
-            "val2014/COCO_val2014_000000245534.jpg",
-            "niah/niah_701_7_COCO_val2014_000000309889.jpg",
-            "niah/niah_701_1_COCO_val2014_000000003466.jpg",
-            "niah/niah_701_5_COCO_val2014_000000509590.jpg"
+            "multi/niah_701_2_COCO_val2014_000000467742.jpg",
+            "multi/niah_701_6_COCO_val2014_000000287714.jpg",
+            "multi/niah_701_3_COCO_val2014_000000263355.jpg",
+            "multi/COCO_val2014_000000245534.jpg",
+            "multi/niah_701_7_COCO_val2014_000000309889.jpg",
+            "multi/niah_701_1_COCO_val2014_000000003466.jpg",
+            "multi/niah_701_5_COCO_val2014_000000509590.jpg"
         ],
         "question1": "Find the frame of a person with orange and blue sneakers stands ona brick floor. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A bed with red sheets and a large wooden headboard.\n(B) A clean hotel bathroom is pictured in this image.\n(C) A tall brick tower with a massive clock on it's side.\n(D) A young Asian girl holds a red umbrella.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -358,12 +358,12 @@
     },
     {
         "images": [
-            "niah/niah_776_5_COCO_val2014_000000349098.jpg",
-            "val2014/COCO_val2014_000000127120.jpg",
-            "niah/niah_776_6_COCO_val2014_000000344762.jpg",
-            "niah/niah_776_1_COCO_val2014_000000184401.jpg",
-            "niah/niah_776_4_COCO_val2014_000000032375.jpg",
-            "niah/niah_776_2_COCO_val2014_000000244550.jpg"
+            "multi/niah_776_5_COCO_val2014_000000349098.jpg",
+            "multi/COCO_val2014_000000127120.jpg",
+            "multi/niah_776_6_COCO_val2014_000000344762.jpg",
+            "multi/niah_776_1_COCO_val2014_000000184401.jpg",
+            "multi/niah_776_4_COCO_val2014_000000032375.jpg",
+            "multi/niah_776_2_COCO_val2014_000000244550.jpg"
         ],
         "question1": "Find the frame of stuffed teddy bear covered with blanket in bed. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a man is talking in to a microphone on stage\n(B) People walk and stand near an approaching train.\n(C) The two eddy bears are leaning on the purplish pillows\n(D) Multiple views of graffiti underneath a sign on a brick wall.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -372,13 +372,13 @@
     },
     {
         "images": [
-            "niah/niah_725_6_COCO_val2014_000000235131.jpg",
-            "niah/niah_725_5_COCO_val2014_000000464737.jpg",
-            "val2014/COCO_val2014_000000245102.jpg",
-            "niah/niah_725_7_COCO_val2014_000000174091.jpg",
-            "niah/niah_725_2_COCO_val2014_000000393258.jpg",
-            "niah/niah_725_1_COCO_val2014_000000365511.jpg",
-            "niah/niah_725_3_COCO_val2014_000000099342.jpg"
+            "multi/niah_725_6_COCO_val2014_000000235131.jpg",
+            "multi/niah_725_5_COCO_val2014_000000464737.jpg",
+            "multi/COCO_val2014_000000245102.jpg",
+            "multi/niah_725_7_COCO_val2014_000000174091.jpg",
+            "multi/niah_725_2_COCO_val2014_000000393258.jpg",
+            "multi/niah_725_1_COCO_val2014_000000365511.jpg",
+            "multi/niah_725_3_COCO_val2014_000000099342.jpg"
         ],
         "question1": "Find the frame of a road sign for uplands over the back of a stop sign. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) it is snowing near a staircase and some walls with a light\n(B) Two zebras share a tender moment as an ostrich hides his head in the background. \n(C) A pizza, with a saucy and leafy topping, on a plate on a dark brown table.\n(D) An image of boats, and ferries on water.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -387,12 +387,12 @@
     },
     {
         "images": [
-            "niah/niah_614_4_COCO_val2014_000000038816.jpg",
-            "niah/niah_614_5_COCO_val2014_000000406681.jpg",
-            "val2014/COCO_val2014_000000261185.jpg",
-            "niah/niah_614_6_COCO_val2014_000000040317.jpg",
-            "niah/niah_614_1_COCO_val2014_000000367582.jpg",
-            "niah/niah_614_2_COCO_val2014_000000122787.jpg"
+            "multi/niah_614_4_COCO_val2014_000000038816.jpg",
+            "multi/niah_614_5_COCO_val2014_000000406681.jpg",
+            "multi/COCO_val2014_000000261185.jpg",
+            "multi/niah_614_6_COCO_val2014_000000040317.jpg",
+            "multi/niah_614_1_COCO_val2014_000000367582.jpg",
+            "multi/niah_614_2_COCO_val2014_000000122787.jpg"
         ],
         "question1": "Find the frame of a man is looking at a piece of paper Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) The skier is coming down the snowy mountain.\n(B) A couple of brown dogs sitting on top of a couch.\n(C) A decorated Christmas tree stands in a very tidy room.\n(D) A bathroom sits off the side of a kitchen in close proximity to the refrigerator.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -401,11 +401,11 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000324135.jpg",
-            "niah/niah_708_3_COCO_val2014_000000091080.jpg",
-            "niah/niah_708_1_COCO_val2014_000000498228.jpg",
-            "niah/niah_708_5_COCO_val2014_000000574392.jpg",
-            "niah/niah_708_4_COCO_val2014_000000115222.jpg"
+            "multi/COCO_val2014_000000324135.jpg",
+            "multi/niah_708_3_COCO_val2014_000000091080.jpg",
+            "multi/niah_708_1_COCO_val2014_000000498228.jpg",
+            "multi/niah_708_5_COCO_val2014_000000574392.jpg",
+            "multi/niah_708_4_COCO_val2014_000000115222.jpg"
         ],
         "question1": "Find the frame of two pelicans sit on rocks along the water. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) The small bench is nestled under the tree.\n(B) City scene with stop sign and street cars.\n(C) A kitchen that has a brick wall as a background. \n(D) a child with a hat and sunglasses and is holding a stick\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -414,13 +414,13 @@
     },
     {
         "images": [
-            "niah/niah_557_3_COCO_val2014_000000421833.jpg",
-            "niah/niah_557_2_COCO_val2014_000000393569.jpg",
-            "niah/niah_557_1_COCO_val2014_000000251508.jpg",
-            "niah/niah_557_7_COCO_val2014_000000533003.jpg",
-            "niah/niah_557_6_COCO_val2014_000000203865.jpg",
-            "niah/niah_557_5_COCO_val2014_000000521282.jpg",
-            "val2014/COCO_val2014_000000351903.jpg"
+            "multi/niah_557_3_COCO_val2014_000000421833.jpg",
+            "multi/niah_557_2_COCO_val2014_000000393569.jpg",
+            "multi/niah_557_1_COCO_val2014_000000251508.jpg",
+            "multi/niah_557_7_COCO_val2014_000000533003.jpg",
+            "multi/niah_557_6_COCO_val2014_000000203865.jpg",
+            "multi/niah_557_5_COCO_val2014_000000521282.jpg",
+            "multi/COCO_val2014_000000351903.jpg"
         ],
         "question1": "Find the frame of a girl shows a banana to the camera.  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) there is an adult giraffe looking at something\n(B) clear vase filled with white and yellow flowers with water\n(C) The counter holds many small appliances and tools for the kitchen.\n(D) A transit bus parked at a stop on a street side.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -429,11 +429,11 @@
     },
     {
         "images": [
-            "niah/niah_703_3_COCO_val2014_000000295574.jpg",
-            "niah/niah_703_5_COCO_val2014_000000095191.jpg",
-            "niah/niah_703_1_COCO_val2014_000000314074.jpg",
-            "val2014/COCO_val2014_000000058089.jpg",
-            "niah/niah_703_4_COCO_val2014_000000020979.jpg"
+            "multi/niah_703_3_COCO_val2014_000000295574.jpg",
+            "multi/niah_703_5_COCO_val2014_000000095191.jpg",
+            "multi/niah_703_1_COCO_val2014_000000314074.jpg",
+            "multi/COCO_val2014_000000058089.jpg",
+            "multi/niah_703_4_COCO_val2014_000000020979.jpg"
         ],
         "question1": "Find the frame of people are watching a man cut a wedding cake with a puppet. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A man taking a selfie in a bathroom with a toilet, sink and shower.\n(B) A train station with three trains near a building\n(C) There is a motorcycle parked in front of a small blue and white bus.\n(D) a parking meter with a red zone 3 tag\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -442,11 +442,11 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000535643.jpg",
-            "niah/niah_692_4_COCO_val2014_000000384823.jpg",
-            "niah/niah_692_1_COCO_val2014_000000231349.jpg",
-            "niah/niah_692_5_COCO_val2014_000000386210.jpg",
-            "niah/niah_692_3_COCO_val2014_000000568398.jpg"
+            "multi/COCO_val2014_000000535643.jpg",
+            "multi/niah_692_4_COCO_val2014_000000384823.jpg",
+            "multi/niah_692_1_COCO_val2014_000000231349.jpg",
+            "multi/niah_692_5_COCO_val2014_000000386210.jpg",
+            "multi/niah_692_3_COCO_val2014_000000568398.jpg"
         ],
         "question1": "Find the frame of a train has an out of order sign on it. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A pizza with multiple topping ready to be cut.\n(B) A toilet and urinal against a pink tiled wall. \n(C) Tube of orange and pears, surrounded by boxes of grass and one pineapple\n(D) A desk cluttered with compute equipment and office supplies and a a chair.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -455,13 +455,13 @@
     },
     {
         "images": [
-            "niah/niah_775_6_COCO_val2014_000000021688.jpg",
-            "niah/niah_775_5_COCO_val2014_000000492609.jpg",
-            "niah/niah_775_2_COCO_val2014_000000337987.jpg",
-            "niah/niah_775_3_COCO_val2014_000000494139.jpg",
-            "val2014/COCO_val2014_000000497365.jpg",
-            "niah/niah_775_1_COCO_val2014_000000389655.jpg",
-            "niah/niah_775_7_COCO_val2014_000000522315.jpg"
+            "multi/niah_775_6_COCO_val2014_000000021688.jpg",
+            "multi/niah_775_5_COCO_val2014_000000492609.jpg",
+            "multi/niah_775_2_COCO_val2014_000000337987.jpg",
+            "multi/niah_775_3_COCO_val2014_000000494139.jpg",
+            "multi/COCO_val2014_000000497365.jpg",
+            "multi/niah_775_1_COCO_val2014_000000389655.jpg",
+            "multi/niah_775_7_COCO_val2014_000000522315.jpg"
         ],
         "question1": "Find the frame of a military jet that has its loading compartment open for viewing. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A garden with  a bench sits outside a red building.\n(B) Two pizzas with green toppings on top of it.\n(C) Two giraffes are walking on a dirt road looking in opposite directions.\n(D) A man laughing at a redheaded woman. \nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -470,13 +470,13 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000325410.jpg",
-            "niah/niah_66_1_COCO_val2014_000000495613.jpg",
-            "niah/niah_66_5_COCO_val2014_000000296996.jpg",
-            "niah/niah_66_6_COCO_val2014_000000280560.jpg",
-            "niah/niah_66_2_COCO_val2014_000000265313.jpg",
-            "niah/niah_66_3_COCO_val2014_000000536274.jpg",
-            "niah/niah_66_7_COCO_val2014_000000393282.jpg"
+            "multi/COCO_val2014_000000325410.jpg",
+            "multi/niah_66_1_COCO_val2014_000000495613.jpg",
+            "multi/niah_66_5_COCO_val2014_000000296996.jpg",
+            "multi/niah_66_6_COCO_val2014_000000280560.jpg",
+            "multi/niah_66_2_COCO_val2014_000000265313.jpg",
+            "multi/niah_66_3_COCO_val2014_000000536274.jpg",
+            "multi/niah_66_7_COCO_val2014_000000393282.jpg"
         ],
         "question1": "Find the frame of two motorcycles are parked on an area with flowers.  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Two passenger jets sit in wait at the airport.\n(B) Two giraffes standing in a desert like area. \n(C) A purple banana sprout hanging from a tree.\n(D) A person holding a tennis racket on a tennis court.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -485,13 +485,13 @@
     },
     {
         "images": [
-            "niah/niah_982_5_COCO_val2014_000000513098.jpg",
-            "niah/niah_982_6_COCO_val2014_000000043851.jpg",
-            "val2014/COCO_val2014_000000531796.jpg",
-            "niah/niah_982_2_COCO_val2014_000000470885.jpg",
-            "niah/niah_982_1_COCO_val2014_000000201305.jpg",
-            "niah/niah_982_3_COCO_val2014_000000050786.jpg",
-            "niah/niah_982_7_COCO_val2014_000000201477.jpg"
+            "multi/niah_982_5_COCO_val2014_000000513098.jpg",
+            "multi/niah_982_6_COCO_val2014_000000043851.jpg",
+            "multi/COCO_val2014_000000531796.jpg",
+            "multi/niah_982_2_COCO_val2014_000000470885.jpg",
+            "multi/niah_982_1_COCO_val2014_000000201305.jpg",
+            "multi/niah_982_3_COCO_val2014_000000050786.jpg",
+            "multi/niah_982_7_COCO_val2014_000000201477.jpg"
         ],
         "question1": "Find the frame of an asian girl is posing with a little umbrella. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A small sign by a big hill filled with umbrellas.\n(B) some buses parked in a bus depot in fall\n(C) A group of older propeller planes flying in formation.\n(D) A cat is seen in a mirror as it lays on a bed near a dresser.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -500,12 +500,12 @@
     },
     {
         "images": [
-            "niah/niah_272_4_COCO_val2014_000000434693.jpg",
-            "niah/niah_272_5_COCO_val2014_000000450217.jpg",
-            "niah/niah_272_1_COCO_val2014_000000002290.jpg",
-            "niah/niah_272_2_COCO_val2014_000000237566.jpg",
-            "niah/niah_272_6_COCO_val2014_000000566103.jpg",
-            "val2014/COCO_val2014_000000568979.jpg"
+            "multi/niah_272_4_COCO_val2014_000000434693.jpg",
+            "multi/niah_272_5_COCO_val2014_000000450217.jpg",
+            "multi/niah_272_1_COCO_val2014_000000002290.jpg",
+            "multi/niah_272_2_COCO_val2014_000000237566.jpg",
+            "multi/niah_272_6_COCO_val2014_000000566103.jpg",
+            "multi/COCO_val2014_000000568979.jpg"
         ],
         "question1": "Find the frame of a boat sitting in the water near a dock. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Elephants crossing a deep river near a dry landscape.\n(B) A man that is standing next to an elephant.\n(C) three signs sit on top of a street pole \n(D) A fire hydrant that is painted white stands in front of a pink house.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -514,11 +514,11 @@
     },
     {
         "images": [
-            "niah/niah_668_3_COCO_val2014_000000238291.jpg",
-            "niah/niah_668_1_COCO_val2014_000000172342.jpg",
-            "niah/niah_668_4_COCO_val2014_000000025715.jpg",
-            "val2014/COCO_val2014_000000150320.jpg",
-            "niah/niah_668_5_COCO_val2014_000000282724.jpg"
+            "multi/niah_668_3_COCO_val2014_000000238291.jpg",
+            "multi/niah_668_1_COCO_val2014_000000172342.jpg",
+            "multi/niah_668_4_COCO_val2014_000000025715.jpg",
+            "multi/COCO_val2014_000000150320.jpg",
+            "multi/niah_668_5_COCO_val2014_000000282724.jpg"
         ],
         "question1": "Find the frame of a couple of people at a deli restaurant. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A boat is sitting overturned on the shore near the water. \n(B) Several empty boats floating on the river on a cloudy day.\n(C) A couple of black cats sitting in a window sill looking out a window.\n(D) A computer desk with keyboard, monitor, mouse and headphones on it.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -527,12 +527,12 @@
     },
     {
         "images": [
-            "niah/niah_575_1_COCO_val2014_000000390348.jpg",
-            "niah/niah_575_2_COCO_val2014_000000128992.jpg",
-            "niah/niah_575_4_COCO_val2014_000000469232.jpg",
-            "niah/niah_575_6_COCO_val2014_000000219524.jpg",
-            "niah/niah_575_5_COCO_val2014_000000336113.jpg",
-            "val2014/COCO_val2014_000000288579.jpg"
+            "multi/niah_575_1_COCO_val2014_000000390348.jpg",
+            "multi/niah_575_2_COCO_val2014_000000128992.jpg",
+            "multi/niah_575_4_COCO_val2014_000000469232.jpg",
+            "multi/niah_575_6_COCO_val2014_000000219524.jpg",
+            "multi/niah_575_5_COCO_val2014_000000336113.jpg",
+            "multi/COCO_val2014_000000288579.jpg"
         ],
         "question1": "Find the frame of a bike parked in the middle of a street covered up with a cloth .\n Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A dog looks up at a flying disk.\n(B) A man in a suit poses for pictures\n(C) A large black bear moving toward a vehicle.\n(D) A all white bath room with blue tape on the floor . \nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -541,13 +541,13 @@
     },
     {
         "images": [
-            "niah/niah_586_5_COCO_val2014_000000459117.jpg",
-            "niah/niah_586_1_COCO_val2014_000000191691.jpg",
-            "niah/niah_586_3_COCO_val2014_000000104758.jpg",
-            "niah/niah_586_2_COCO_val2014_000000025743.jpg",
-            "val2014/COCO_val2014_000000225784.jpg",
-            "niah/niah_586_7_COCO_val2014_000000068434.jpg",
-            "niah/niah_586_6_COCO_val2014_000000486172.jpg"
+            "multi/niah_586_5_COCO_val2014_000000459117.jpg",
+            "multi/niah_586_1_COCO_val2014_000000191691.jpg",
+            "multi/niah_586_3_COCO_val2014_000000104758.jpg",
+            "multi/niah_586_2_COCO_val2014_000000025743.jpg",
+            "multi/COCO_val2014_000000225784.jpg",
+            "multi/niah_586_7_COCO_val2014_000000068434.jpg",
+            "multi/niah_586_6_COCO_val2014_000000486172.jpg"
         ],
         "question1": "Find the frame of a man shaving in a bathroom while looking in the mirror Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Two horses that are pulling a trailer with a bunch of wooden barrels on it.\n(B) A person is skiing down a snowy slope.\n(C) A vase is holding an arrangement of flowers.\n(D) A bicycle with headlights is photographed in a room.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -556,13 +556,13 @@
     },
     {
         "images": [
-            "niah/niah_42_1_COCO_val2014_000000453731.jpg",
-            "niah/niah_42_2_COCO_val2014_000000334743.jpg",
-            "niah/niah_42_7_COCO_val2014_000000434723.jpg",
-            "niah/niah_42_5_COCO_val2014_000000307847.jpg",
-            "niah/niah_42_6_COCO_val2014_000000219344.jpg",
-            "val2014/COCO_val2014_000000236419.jpg",
-            "niah/niah_42_3_COCO_val2014_000000068204.jpg"
+            "multi/niah_42_1_COCO_val2014_000000453731.jpg",
+            "multi/niah_42_2_COCO_val2014_000000334743.jpg",
+            "multi/niah_42_7_COCO_val2014_000000434723.jpg",
+            "multi/niah_42_5_COCO_val2014_000000307847.jpg",
+            "multi/niah_42_6_COCO_val2014_000000219344.jpg",
+            "multi/COCO_val2014_000000236419.jpg",
+            "multi/niah_42_3_COCO_val2014_000000068204.jpg"
         ],
         "question1": "Find the frame of a dog relaxing on a deck with wine bottles Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A yellow umbrella sticking out of a vase near a brick wall.\n(B) an old dairy truck is rotting away in a field\n(C) A train is sitting in a train station. \n(D) A teddy bear with a blue scarf and eyes tilted to its left.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -571,13 +571,13 @@
     },
     {
         "images": [
-            "niah/niah_644_2_COCO_val2014_000000565929.jpg",
-            "niah/niah_644_1_COCO_val2014_000000183701.jpg",
-            "val2014/COCO_val2014_000000311928.jpg",
-            "niah/niah_644_5_COCO_val2014_000000170278.jpg",
-            "niah/niah_644_6_COCO_val2014_000000461572.jpg",
-            "niah/niah_644_3_COCO_val2014_000000136740.jpg",
-            "niah/niah_644_7_COCO_val2014_000000020371.jpg"
+            "multi/niah_644_2_COCO_val2014_000000565929.jpg",
+            "multi/niah_644_1_COCO_val2014_000000183701.jpg",
+            "multi/COCO_val2014_000000311928.jpg",
+            "multi/niah_644_5_COCO_val2014_000000170278.jpg",
+            "multi/niah_644_6_COCO_val2014_000000461572.jpg",
+            "multi/niah_644_3_COCO_val2014_000000136740.jpg",
+            "multi/niah_644_7_COCO_val2014_000000020371.jpg"
         ],
         "question1": "Find the frame of three large giraffes feeding from buckets on a chain linked fence. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a small boy with a bat and ball on some grass\n(B) A close up shot of a pigeon on a rain gutter.\n(C) A large dog sleeps on a duvet comforter. \n(D) Someone lifting a slice of deep dish pizza.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -586,12 +586,12 @@
     },
     {
         "images": [
-            "niah/niah_469_5_COCO_val2014_000000221000.jpg",
-            "val2014/COCO_val2014_000000482574.jpg",
-            "niah/niah_469_4_COCO_val2014_000000554767.jpg",
-            "niah/niah_469_2_COCO_val2014_000000512938.jpg",
-            "niah/niah_469_1_COCO_val2014_000000507042.jpg",
-            "niah/niah_469_6_COCO_val2014_000000225177.jpg"
+            "multi/niah_469_5_COCO_val2014_000000221000.jpg",
+            "multi/COCO_val2014_000000482574.jpg",
+            "multi/niah_469_4_COCO_val2014_000000554767.jpg",
+            "multi/niah_469_2_COCO_val2014_000000512938.jpg",
+            "multi/niah_469_1_COCO_val2014_000000507042.jpg",
+            "multi/niah_469_6_COCO_val2014_000000225177.jpg"
         ],
         "question1": "Find the frame of these are three giraffes standing in a pen Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A passenger train with several passenger cars moving along.\n(B) a man standing and checking out a bunch of hanging fruit on display\n(C) A woman in hospital gown lays in bed with a child by her bedside and another woman sweeps in the background\n(D) A city bus is traveling down the empty street.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -600,13 +600,13 @@
     },
     {
         "images": [
-            "niah/niah_822_2_COCO_val2014_000000250301.jpg",
-            "val2014/COCO_val2014_000000578485.jpg",
-            "niah/niah_822_1_COCO_val2014_000000500829.jpg",
-            "niah/niah_822_6_COCO_val2014_000000240817.jpg",
-            "niah/niah_822_3_COCO_val2014_000000242757.jpg",
-            "niah/niah_822_7_COCO_val2014_000000560675.jpg",
-            "niah/niah_822_5_COCO_val2014_000000401163.jpg"
+            "multi/niah_822_2_COCO_val2014_000000250301.jpg",
+            "multi/COCO_val2014_000000578485.jpg",
+            "multi/niah_822_1_COCO_val2014_000000500829.jpg",
+            "multi/niah_822_6_COCO_val2014_000000240817.jpg",
+            "multi/niah_822_3_COCO_val2014_000000242757.jpg",
+            "multi/niah_822_7_COCO_val2014_000000560675.jpg",
+            "multi/niah_822_5_COCO_val2014_000000401163.jpg"
         ],
         "question1": "Find the frame of an old truck parked in the woods.  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A train that is passing by a very large city.\n(B) Small kitchen with white appliances and white cabinets. \n(C) A old man sits on a bench next to a lying dog.\n(D) A person cross country skiing on a winters day.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -615,11 +615,11 @@
     },
     {
         "images": [
-            "niah/niah_382_3_COCO_val2014_000000245651.jpg",
-            "val2014/COCO_val2014_000000538792.jpg",
-            "niah/niah_382_5_COCO_val2014_000000176007.jpg",
-            "niah/niah_382_1_COCO_val2014_000000347772.jpg",
-            "niah/niah_382_4_COCO_val2014_000000288579.jpg"
+            "multi/niah_382_3_COCO_val2014_000000245651.jpg",
+            "multi/COCO_val2014_000000538792.jpg",
+            "multi/niah_382_5_COCO_val2014_000000176007.jpg",
+            "multi/niah_382_1_COCO_val2014_000000347772.jpg",
+            "multi/niah_382_4_COCO_val2014_000000288579.jpg"
         ],
         "question1": "Find the frame of a baseball player is getting ready to hit a ball Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Several different cell phones are laying on the sofa,\n(B) a motorcycle parked between two poles and one other motorcycle \n(C) 2 tier cake with multicolored stars attached to it. \n(D) A dog looks up at a flying disk.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -628,11 +628,11 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000450182.jpg",
-            "niah/niah_743_1_COCO_val2014_000000090753.jpg",
-            "niah/niah_743_4_COCO_val2014_000000342814.jpg",
-            "niah/niah_743_3_COCO_val2014_000000486034.jpg",
-            "niah/niah_743_5_COCO_val2014_000000022870.jpg"
+            "multi/COCO_val2014_000000450182.jpg",
+            "multi/niah_743_1_COCO_val2014_000000090753.jpg",
+            "multi/niah_743_4_COCO_val2014_000000342814.jpg",
+            "multi/niah_743_3_COCO_val2014_000000486034.jpg",
+            "multi/niah_743_5_COCO_val2014_000000022870.jpg"
         ],
         "question1": "Find the frame of some white flowers are in a glass vase Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A pirate them bedroom with children in the bed is pictured.\n(B) A motorcyclist performs a wheelie on the street. \n(C) Three dogs are tied up with leash ropes.\n(D) A line of buses waiting outside an amusement park. \nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -641,13 +641,13 @@
     },
     {
         "images": [
-            "niah/niah_492_2_COCO_val2014_000000571808.jpg",
-            "val2014/COCO_val2014_000000564058.jpg",
-            "niah/niah_492_5_COCO_val2014_000000395701.jpg",
-            "niah/niah_492_6_COCO_val2014_000000102240.jpg",
-            "niah/niah_492_1_COCO_val2014_000000530600.jpg",
-            "niah/niah_492_3_COCO_val2014_000000303418.jpg",
-            "niah/niah_492_7_COCO_val2014_000000069646.jpg"
+            "multi/niah_492_2_COCO_val2014_000000571808.jpg",
+            "multi/COCO_val2014_000000564058.jpg",
+            "multi/niah_492_5_COCO_val2014_000000395701.jpg",
+            "multi/niah_492_6_COCO_val2014_000000102240.jpg",
+            "multi/niah_492_1_COCO_val2014_000000530600.jpg",
+            "multi/niah_492_3_COCO_val2014_000000303418.jpg",
+            "multi/niah_492_7_COCO_val2014_000000069646.jpg"
         ],
         "question1": "Find the frame of two grey teddy bears wearing bright knit hats and sweaters Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A chair and a television in a room.\n(B) A bride and groom are cutting a wedding cake\n(C) a person taking a picture of the back end of their big truck \n(D) A man with a tie has his feet bent up in the air.  \nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -656,11 +656,11 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000579043.jpg",
-            "niah/niah_825_5_COCO_val2014_000000132219.jpg",
-            "niah/niah_825_4_COCO_val2014_000000350794.jpg",
-            "niah/niah_825_3_COCO_val2014_000000433134.jpg",
-            "niah/niah_825_1_COCO_val2014_000000195561.jpg"
+            "multi/COCO_val2014_000000579043.jpg",
+            "multi/niah_825_5_COCO_val2014_000000132219.jpg",
+            "multi/niah_825_4_COCO_val2014_000000350794.jpg",
+            "multi/niah_825_3_COCO_val2014_000000433134.jpg",
+            "multi/niah_825_1_COCO_val2014_000000195561.jpg"
         ],
         "question1": "Find the frame of a statue under an umbrella pointing to a fir tree on a red-tiled city square. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A high statue with a clock inside on a very nice day.\n(B) a panda bear relaxing on a ledge in the shade\n(C) a black and white cat on some grass\n(D) The baby girl sits with a red ball at her feet.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -669,12 +669,12 @@
     },
     {
         "images": [
-            "niah/niah_412_6_COCO_val2014_000000045830.jpg",
-            "niah/niah_412_2_COCO_val2014_000000088895.jpg",
-            "niah/niah_412_1_COCO_val2014_000000135037.jpg",
-            "val2014/COCO_val2014_000000304099.jpg",
-            "niah/niah_412_5_COCO_val2014_000000268641.jpg",
-            "niah/niah_412_4_COCO_val2014_000000064610.jpg"
+            "multi/niah_412_6_COCO_val2014_000000045830.jpg",
+            "multi/niah_412_2_COCO_val2014_000000088895.jpg",
+            "multi/niah_412_1_COCO_val2014_000000135037.jpg",
+            "multi/COCO_val2014_000000304099.jpg",
+            "multi/niah_412_5_COCO_val2014_000000268641.jpg",
+            "multi/niah_412_4_COCO_val2014_000000064610.jpg"
         ],
         "question1": "Find the frame of a warthog and a zebra running in a grassland. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) An orange and black fire hydrant sits on a sidewalk next to some black pipes. \n(B) A black cat laying down in a piece of gray luggage.\n(C) The train is stopped, and the doors are open.\n(D) A number of suitcases ride on a luggage conveyor belt.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -683,13 +683,13 @@
     },
     {
         "images": [
-            "niah/niah_164_6_COCO_val2014_000000439132.jpg",
-            "niah/niah_164_7_COCO_val2014_000000562870.jpg",
-            "niah/niah_164_5_COCO_val2014_000000528062.jpg",
-            "niah/niah_164_1_COCO_val2014_000000180510.jpg",
-            "val2014/COCO_val2014_000000226020.jpg",
-            "niah/niah_164_2_COCO_val2014_000000049115.jpg",
-            "niah/niah_164_3_COCO_val2014_000000292988.jpg"
+            "multi/niah_164_6_COCO_val2014_000000439132.jpg",
+            "multi/niah_164_7_COCO_val2014_000000562870.jpg",
+            "multi/niah_164_5_COCO_val2014_000000528062.jpg",
+            "multi/niah_164_1_COCO_val2014_000000180510.jpg",
+            "multi/COCO_val2014_000000226020.jpg",
+            "multi/niah_164_2_COCO_val2014_000000049115.jpg",
+            "multi/niah_164_3_COCO_val2014_000000292988.jpg"
         ],
         "question1": "Find the frame of a yellow and black train speeding along the rails. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Closeup of a white and black cellphone on a wooden table.\n(B) A boy doing a trick on a skate board at a park.\n(C) A black cat is sitting in a pot.\n(D) Three adults sitting in a dark living room talking.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -698,12 +698,12 @@
     },
     {
         "images": [
-            "niah/niah_876_6_COCO_val2014_000000162939.jpg",
-            "niah/niah_876_2_COCO_val2014_000000344314.jpg",
-            "niah/niah_876_4_COCO_val2014_000000535226.jpg",
-            "niah/niah_876_1_COCO_val2014_000000388014.jpg",
-            "niah/niah_876_5_COCO_val2014_000000326919.jpg",
-            "val2014/COCO_val2014_000000329307.jpg"
+            "multi/niah_876_6_COCO_val2014_000000162939.jpg",
+            "multi/niah_876_2_COCO_val2014_000000344314.jpg",
+            "multi/niah_876_4_COCO_val2014_000000535226.jpg",
+            "multi/niah_876_1_COCO_val2014_000000388014.jpg",
+            "multi/niah_876_5_COCO_val2014_000000326919.jpg",
+            "multi/COCO_val2014_000000329307.jpg"
         ],
         "question1": "Find the frame of a bunch of small birds and rodents in a small box with straw in it. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Large jet airplanes parked at an airport waiting for passengers.\n(B) A cat curled up in a shelter made of printer boxes.\n(C) A man standing next to a bat of luggage.\n(D) A plane sitting on the tarmac at an airport\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -712,11 +712,11 @@
     },
     {
         "images": [
-            "niah/niah_107_3_COCO_val2014_000000487151.jpg",
-            "val2014/COCO_val2014_000000225784.jpg",
-            "niah/niah_107_1_COCO_val2014_000000215693.jpg",
-            "niah/niah_107_5_COCO_val2014_000000189193.jpg",
-            "niah/niah_107_4_COCO_val2014_000000405621.jpg"
+            "multi/niah_107_3_COCO_val2014_000000487151.jpg",
+            "multi/COCO_val2014_000000225784.jpg",
+            "multi/niah_107_1_COCO_val2014_000000215693.jpg",
+            "multi/niah_107_5_COCO_val2014_000000189193.jpg",
+            "multi/niah_107_4_COCO_val2014_000000405621.jpg"
         ],
         "question1": "Find the frame of a bench with a red cover sitting next to a tower with writing on it  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A baseball player standing on a baseball field.\n(B) A young lady is enjoying her time with her skateboard. \n(C) A bicycle with headlights is photographed in a room.\n(D) Many stop signs are lined up in a yard.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -725,13 +725,13 @@
     },
     {
         "images": [
-            "niah/niah_88_5_COCO_val2014_000000519479.jpg",
-            "niah/niah_88_2_COCO_val2014_000000135673.jpg",
-            "niah/niah_88_1_COCO_val2014_000000198530.jpg",
-            "val2014/COCO_val2014_000000360986.jpg",
-            "niah/niah_88_7_COCO_val2014_000000275744.jpg",
-            "niah/niah_88_3_COCO_val2014_000000056068.jpg",
-            "niah/niah_88_6_COCO_val2014_000000397512.jpg"
+            "multi/niah_88_5_COCO_val2014_000000519479.jpg",
+            "multi/niah_88_2_COCO_val2014_000000135673.jpg",
+            "multi/niah_88_1_COCO_val2014_000000198530.jpg",
+            "multi/COCO_val2014_000000360986.jpg",
+            "multi/niah_88_7_COCO_val2014_000000275744.jpg",
+            "multi/niah_88_3_COCO_val2014_000000056068.jpg",
+            "multi/niah_88_6_COCO_val2014_000000397512.jpg"
         ],
         "question1": "Find the frame of three people posing on a mountain on skis and snowboards. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A brown cow standing on top of a smaller brown cow next to a building.\n(B) A painting of a man sitting at a computer in his library.\n(C) A white and yellow bedroom equipped with two large beds.\n(D) A couple of large trains on a steel track.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -740,11 +740,11 @@
     },
     {
         "images": [
-            "niah/niah_64_5_COCO_val2014_000000509402.jpg",
-            "val2014/COCO_val2014_000000185530.jpg",
-            "niah/niah_64_1_COCO_val2014_000000576080.jpg",
-            "niah/niah_64_4_COCO_val2014_000000361621.jpg",
-            "niah/niah_64_3_COCO_val2014_000000031269.jpg"
+            "multi/niah_64_5_COCO_val2014_000000509402.jpg",
+            "multi/COCO_val2014_000000185530.jpg",
+            "multi/niah_64_1_COCO_val2014_000000576080.jpg",
+            "multi/niah_64_4_COCO_val2014_000000361621.jpg",
+            "multi/niah_64_3_COCO_val2014_000000031269.jpg"
         ],
         "question1": "Find the frame of a toilet is next to two toilet paper rolls and a telephone. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Four sheep graze in a hilly field while the sky above them is blue with wispy clouds.\n(B) a zebra is standing outside in a field\n(C) three zebras grazing in a grassy area near shrubs\n(D) A cat sits in a bathroom sink while looking outward.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -753,11 +753,11 @@
     },
     {
         "images": [
-            "niah/niah_908_1_COCO_val2014_000000288161.jpg",
-            "niah/niah_908_3_COCO_val2014_000000569767.jpg",
-            "val2014/COCO_val2014_000000476417.jpg",
-            "niah/niah_908_4_COCO_val2014_000000349418.jpg",
-            "niah/niah_908_5_COCO_val2014_000000439907.jpg"
+            "multi/niah_908_1_COCO_val2014_000000288161.jpg",
+            "multi/niah_908_3_COCO_val2014_000000569767.jpg",
+            "multi/COCO_val2014_000000476417.jpg",
+            "multi/niah_908_4_COCO_val2014_000000349418.jpg",
+            "multi/niah_908_5_COCO_val2014_000000439907.jpg"
         ],
         "question1": "Find the frame of a kitchen sink is shown with a marble finish. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Two people are riding horses down a trail.\n(B) The female tennis player is about to hit the ball.\n(C) A high end bathroom with a shower stall\n(D) A panda bear eating bamboo in a wooded area.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -766,13 +766,13 @@
     },
     {
         "images": [
-            "niah/niah_182_6_COCO_val2014_000000381368.jpg",
-            "niah/niah_182_1_COCO_val2014_000000236714.jpg",
-            "niah/niah_182_5_COCO_val2014_000000364299.jpg",
-            "niah/niah_182_3_COCO_val2014_000000323525.jpg",
-            "niah/niah_182_7_COCO_val2014_000000346138.jpg",
-            "val2014/COCO_val2014_000000404237.jpg",
-            "niah/niah_182_2_COCO_val2014_000000022870.jpg"
+            "multi/niah_182_6_COCO_val2014_000000381368.jpg",
+            "multi/niah_182_1_COCO_val2014_000000236714.jpg",
+            "multi/niah_182_5_COCO_val2014_000000364299.jpg",
+            "multi/niah_182_3_COCO_val2014_000000323525.jpg",
+            "multi/niah_182_7_COCO_val2014_000000346138.jpg",
+            "multi/COCO_val2014_000000404237.jpg",
+            "multi/niah_182_2_COCO_val2014_000000022870.jpg"
         ],
         "question1": "Find the frame of a lone coffee cup sits on an empty park bench Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a black bull hiding behind some grass while what looks like a white crane is riding the bulls back.\n(B) The boat makes a big splash in the water.\n(C) A pizza on a pizza pan with two pieces removed by a serving ladle.\n(D) some pasta dishes are in plates and bowls\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -781,13 +781,13 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000457131.jpg",
-            "niah/niah_615_1_COCO_val2014_000000485972.jpg",
-            "niah/niah_615_2_COCO_val2014_000000327314.jpg",
-            "niah/niah_615_7_COCO_val2014_000000515465.jpg",
-            "niah/niah_615_3_COCO_val2014_000000247609.jpg",
-            "niah/niah_615_6_COCO_val2014_000000161169.jpg",
-            "niah/niah_615_5_COCO_val2014_000000363652.jpg"
+            "multi/COCO_val2014_000000457131.jpg",
+            "multi/niah_615_1_COCO_val2014_000000485972.jpg",
+            "multi/niah_615_2_COCO_val2014_000000327314.jpg",
+            "multi/niah_615_7_COCO_val2014_000000515465.jpg",
+            "multi/niah_615_3_COCO_val2014_000000247609.jpg",
+            "multi/niah_615_6_COCO_val2014_000000161169.jpg",
+            "multi/niah_615_5_COCO_val2014_000000363652.jpg"
         ],
         "question1": "Find the frame of a dessert cake is on a plate with a fork.  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Four black cell phones sit on a table next to a white cell phone.\n(B) A person touching the top of a fire hydrant.\n(C) a craft is flying behind a tree line\n(D) A dog is chasing sheep across an area in full speed.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -796,13 +796,13 @@
     },
     {
         "images": [
-            "niah/niah_308_5_COCO_val2014_000000274591.jpg",
-            "niah/niah_308_7_COCO_val2014_000000103257.jpg",
-            "niah/niah_308_1_COCO_val2014_000000228506.jpg",
-            "val2014/COCO_val2014_000000152737.jpg",
-            "niah/niah_308_2_COCO_val2014_000000098683.jpg",
-            "niah/niah_308_6_COCO_val2014_000000214293.jpg",
-            "niah/niah_308_3_COCO_val2014_000000370170.jpg"
+            "multi/niah_308_5_COCO_val2014_000000274591.jpg",
+            "multi/niah_308_7_COCO_val2014_000000103257.jpg",
+            "multi/niah_308_1_COCO_val2014_000000228506.jpg",
+            "multi/COCO_val2014_000000152737.jpg",
+            "multi/niah_308_2_COCO_val2014_000000098683.jpg",
+            "multi/niah_308_6_COCO_val2014_000000214293.jpg",
+            "multi/niah_308_3_COCO_val2014_000000370170.jpg"
         ],
         "question1": "Find the frame of a cat on a bed partially inside a canvas bag Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A small yellow bird sitting on top of a green bird feeder\n(B) A black bear surrounded by logs, rocks, and grass.\n(C) A small child at a kitchen table eats a carrot.\n(D) There is a large black bull with long hair\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -811,13 +811,13 @@
     },
     {
         "images": [
-            "niah/niah_259_3_COCO_val2014_000000133412.jpg",
-            "niah/niah_259_5_COCO_val2014_000000338826.jpg",
-            "niah/niah_259_1_COCO_val2014_000000553912.jpg",
-            "niah/niah_259_7_COCO_val2014_000000399567.jpg",
-            "niah/niah_259_2_COCO_val2014_000000177167.jpg",
-            "niah/niah_259_6_COCO_val2014_000000008708.jpg",
-            "val2014/COCO_val2014_000000207486.jpg"
+            "multi/niah_259_3_COCO_val2014_000000133412.jpg",
+            "multi/niah_259_5_COCO_val2014_000000338826.jpg",
+            "multi/niah_259_1_COCO_val2014_000000553912.jpg",
+            "multi/niah_259_7_COCO_val2014_000000399567.jpg",
+            "multi/niah_259_2_COCO_val2014_000000177167.jpg",
+            "multi/niah_259_6_COCO_val2014_000000008708.jpg",
+            "multi/COCO_val2014_000000207486.jpg"
         ],
         "question1": "Find the frame of person in gray hooded jacket attempting t cross busy street. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) The train sits on the track in a covered bay.\n(B) The exterior of the Maplewood Fire Station Number 4 building.\n(C) Two bulls in the middle of a street in a town.\n(D) A bear sits next to a book and a chair.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -826,12 +826,12 @@
     },
     {
         "images": [
-            "niah/niah_405_2_COCO_val2014_000000261783.jpg",
-            "niah/niah_405_5_COCO_val2014_000000198495.jpg",
-            "niah/niah_405_4_COCO_val2014_000000355860.jpg",
-            "niah/niah_405_1_COCO_val2014_000000523096.jpg",
-            "niah/niah_405_6_COCO_val2014_000000140420.jpg",
-            "val2014/COCO_val2014_000000510254.jpg"
+            "multi/niah_405_2_COCO_val2014_000000261783.jpg",
+            "multi/niah_405_5_COCO_val2014_000000198495.jpg",
+            "multi/niah_405_4_COCO_val2014_000000355860.jpg",
+            "multi/niah_405_1_COCO_val2014_000000523096.jpg",
+            "multi/niah_405_6_COCO_val2014_000000140420.jpg",
+            "multi/COCO_val2014_000000510254.jpg"
         ],
         "question1": "Find the frame of a laptop is sitting on a small table Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Giraffe standing next to a tree near a pond.\n(B) A young lady wearing a yellow dress setting on a large bed\n(C) a fancy black motorcycle sitting on the sidewalk\n(D) A motorcycle is parked on a gravel road in a forest by a stream.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -840,12 +840,12 @@
     },
     {
         "images": [
-            "niah/niah_974_2_COCO_val2014_000000061596.jpg",
-            "val2014/COCO_val2014_000000029059.jpg",
-            "niah/niah_974_1_COCO_val2014_000000092145.jpg",
-            "niah/niah_974_5_COCO_val2014_000000308678.jpg",
-            "niah/niah_974_6_COCO_val2014_000000566274.jpg",
-            "niah/niah_974_4_COCO_val2014_000000233236.jpg"
+            "multi/niah_974_2_COCO_val2014_000000061596.jpg",
+            "multi/COCO_val2014_000000029059.jpg",
+            "multi/niah_974_1_COCO_val2014_000000092145.jpg",
+            "multi/niah_974_5_COCO_val2014_000000308678.jpg",
+            "multi/niah_974_6_COCO_val2014_000000566274.jpg",
+            "multi/niah_974_4_COCO_val2014_000000233236.jpg"
         ],
         "question1": "Find the frame of a heard of cows is eating grass by the fence. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a long blue couch sitting by a white wall \n(B) This little girl is sitting in a seat and eating her favorite dessert.\n(C) a couple of people are riding in a small white boat\n(D) A woman is riding a horse with several women doing the same.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -854,12 +854,12 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000117079.jpg",
-            "niah/niah_878_4_COCO_val2014_000000091460.jpg",
-            "niah/niah_878_6_COCO_val2014_000000164515.jpg",
-            "niah/niah_878_2_COCO_val2014_000000361621.jpg",
-            "niah/niah_878_1_COCO_val2014_000000543528.jpg",
-            "niah/niah_878_5_COCO_val2014_000000316842.jpg"
+            "multi/COCO_val2014_000000117079.jpg",
+            "multi/niah_878_4_COCO_val2014_000000091460.jpg",
+            "multi/niah_878_6_COCO_val2014_000000164515.jpg",
+            "multi/niah_878_2_COCO_val2014_000000361621.jpg",
+            "multi/niah_878_1_COCO_val2014_000000543528.jpg",
+            "multi/niah_878_5_COCO_val2014_000000316842.jpg"
         ],
         "question1": "Find the frame of a plane soars hundreds of feet in the air. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) The pizza is on the plate and ready to be eaten\n(B) A desk that has three computers sitting on it.\n(C) Street scene of black fire hydrant in front a dumpster with graffiti on its side.\n(D) a trio of motorcycles parked next to an r.v.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -868,12 +868,12 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000467468.jpg",
-            "niah/niah_535_6_COCO_val2014_000000008688.jpg",
-            "niah/niah_535_5_COCO_val2014_000000042406.jpg",
-            "niah/niah_535_2_COCO_val2014_000000114586.jpg",
-            "niah/niah_535_4_COCO_val2014_000000034689.jpg",
-            "niah/niah_535_1_COCO_val2014_000000383413.jpg"
+            "multi/COCO_val2014_000000467468.jpg",
+            "multi/niah_535_6_COCO_val2014_000000008688.jpg",
+            "multi/niah_535_5_COCO_val2014_000000042406.jpg",
+            "multi/niah_535_2_COCO_val2014_000000114586.jpg",
+            "multi/niah_535_4_COCO_val2014_000000034689.jpg",
+            "multi/niah_535_1_COCO_val2014_000000383413.jpg"
         ],
         "question1": "Find the frame of an adult bear and a cub bear nibbling on a piece of wood. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A black and white toothbrush holder holding a toothbrush.\n(B) a wooden bench sitting on the sidewalk in front of some plants \n(C) A mattress sitting above the mattress frame in a small room\n(D) An airplane sitting at a cold runway being unloaded.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -882,13 +882,13 @@
     },
     {
         "images": [
-            "niah/niah_158_6_COCO_val2014_000000530741.jpg",
-            "niah/niah_158_5_COCO_val2014_000000082821.jpg",
-            "niah/niah_158_7_COCO_val2014_000000528980.jpg",
-            "niah/niah_158_1_COCO_val2014_000000213035.jpg",
-            "val2014/COCO_val2014_000000371365.jpg",
-            "niah/niah_158_3_COCO_val2014_000000431323.jpg",
-            "niah/niah_158_2_COCO_val2014_000000270893.jpg"
+            "multi/niah_158_6_COCO_val2014_000000530741.jpg",
+            "multi/niah_158_5_COCO_val2014_000000082821.jpg",
+            "multi/niah_158_7_COCO_val2014_000000528980.jpg",
+            "multi/niah_158_1_COCO_val2014_000000213035.jpg",
+            "multi/COCO_val2014_000000371365.jpg",
+            "multi/niah_158_3_COCO_val2014_000000431323.jpg",
+            "multi/niah_158_2_COCO_val2014_000000270893.jpg"
         ],
         "question1": "Find the frame of two people bump their cell phones together at a party Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Group of paddle boats tied up alongside a pear on the water. \n(B) An asian salad resting on a bed of rice.\n(C) An inside out umbrella sculpture on a city street.\n(D) A person riding a motorcycle down the street with groups of people behind a fenced area.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -897,11 +897,11 @@
     },
     {
         "images": [
-            "niah/niah_425_1_COCO_val2014_000000085481.jpg",
-            "val2014/COCO_val2014_000000206433.jpg",
-            "niah/niah_425_5_COCO_val2014_000000239625.jpg",
-            "niah/niah_425_3_COCO_val2014_000000579693.jpg",
-            "niah/niah_425_4_COCO_val2014_000000538589.jpg"
+            "multi/niah_425_1_COCO_val2014_000000085481.jpg",
+            "multi/COCO_val2014_000000206433.jpg",
+            "multi/niah_425_5_COCO_val2014_000000239625.jpg",
+            "multi/niah_425_3_COCO_val2014_000000579693.jpg",
+            "multi/niah_425_4_COCO_val2014_000000538589.jpg"
         ],
         "question1": "Find the frame of a bowl of soup with a drink and a plate of bread. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Two persons in formal dress posing for a photograph.\n(B) There is a toilet next to the shelf with towels.\n(C) A large square pizza being cut up by a person.\n(D) A toilet is placed in between the two walls in what seems to be a bathroom. \nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -910,13 +910,13 @@
     },
     {
         "images": [
-            "niah/niah_829_1_COCO_val2014_000000464462.jpg",
-            "niah/niah_829_6_COCO_val2014_000000414201.jpg",
-            "val2014/COCO_val2014_000000558350.jpg",
-            "niah/niah_829_7_COCO_val2014_000000187055.jpg",
-            "niah/niah_829_5_COCO_val2014_000000061259.jpg",
-            "niah/niah_829_2_COCO_val2014_000000323418.jpg",
-            "niah/niah_829_3_COCO_val2014_000000153832.jpg"
+            "multi/niah_829_1_COCO_val2014_000000464462.jpg",
+            "multi/niah_829_6_COCO_val2014_000000414201.jpg",
+            "multi/COCO_val2014_000000558350.jpg",
+            "multi/niah_829_7_COCO_val2014_000000187055.jpg",
+            "multi/niah_829_5_COCO_val2014_000000061259.jpg",
+            "multi/niah_829_2_COCO_val2014_000000323418.jpg",
+            "multi/niah_829_3_COCO_val2014_000000153832.jpg"
         ],
         "question1": "Find the frame of two apple products with two people lounging behind them. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) One airplane is taking off from an airport while others are parked.\n(B) People are playing with a tennis ball in a gym.\n(C) A dog lying on a couch next to a computer.\n(D) A man and woman holding a knife together cutting a cake that sits on a table.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -925,11 +925,11 @@
     },
     {
         "images": [
-            "niah/niah_50_4_COCO_val2014_000000348496.jpg",
-            "niah/niah_50_3_COCO_val2014_000000178939.jpg",
-            "niah/niah_50_5_COCO_val2014_000000126638.jpg",
-            "niah/niah_50_1_COCO_val2014_000000056736.jpg",
-            "val2014/COCO_val2014_000000487159.jpg"
+            "multi/niah_50_4_COCO_val2014_000000348496.jpg",
+            "multi/niah_50_3_COCO_val2014_000000178939.jpg",
+            "multi/niah_50_5_COCO_val2014_000000126638.jpg",
+            "multi/niah_50_1_COCO_val2014_000000056736.jpg",
+            "multi/COCO_val2014_000000487159.jpg"
         ],
         "question1": "Find the frame of a jet that is flying in the sky. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A dog laying on the floor of a tiled hallway.\n(B) Fresh and cooked vegetable meal on a cluttered table.\n(C) A river by a road with several boats in the water\n(D) Three giraffes reaching for leaves on a tall tree.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -938,11 +938,11 @@
     },
     {
         "images": [
-            "niah/niah_720_5_COCO_val2014_000000104137.jpg",
-            "niah/niah_720_3_COCO_val2014_000000357529.jpg",
-            "niah/niah_720_4_COCO_val2014_000000303219.jpg",
-            "niah/niah_720_1_COCO_val2014_000000220981.jpg",
-            "val2014/COCO_val2014_000000112128.jpg"
+            "multi/niah_720_5_COCO_val2014_000000104137.jpg",
+            "multi/niah_720_3_COCO_val2014_000000357529.jpg",
+            "multi/niah_720_4_COCO_val2014_000000303219.jpg",
+            "multi/niah_720_1_COCO_val2014_000000220981.jpg",
+            "multi/COCO_val2014_000000112128.jpg"
         ],
         "question1": "Find the frame of an iPhone with a sad face and arms and legs attached. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Two lambs eating hay from ground of a field\n(B) A yellow dog lays on a stack of white chairs.\n(C) A baseball player pitching a baseball on top of a field.\n(D) Two people stand in a living room playing with Wii remotes.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -951,13 +951,13 @@
     },
     {
         "images": [
-            "niah/niah_413_6_COCO_val2014_000000255482.jpg",
-            "niah/niah_413_5_COCO_val2014_000000531512.jpg",
-            "val2014/COCO_val2014_000000334884.jpg",
-            "niah/niah_413_7_COCO_val2014_000000287545.jpg",
-            "niah/niah_413_3_COCO_val2014_000000410023.jpg",
-            "niah/niah_413_1_COCO_val2014_000000229067.jpg",
-            "niah/niah_413_2_COCO_val2014_000000449259.jpg"
+            "multi/niah_413_6_COCO_val2014_000000255482.jpg",
+            "multi/niah_413_5_COCO_val2014_000000531512.jpg",
+            "multi/COCO_val2014_000000334884.jpg",
+            "multi/niah_413_7_COCO_val2014_000000287545.jpg",
+            "multi/niah_413_3_COCO_val2014_000000410023.jpg",
+            "multi/niah_413_1_COCO_val2014_000000229067.jpg",
+            "multi/niah_413_2_COCO_val2014_000000449259.jpg"
         ],
         "question1": "Find the frame of a group of people ski down the mountain slope. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A large and small giraffe are looking at something while standing next to a log.\n(B) A bowl of bean and fresh vegetable delight\n(C) A blue airplane in a blue, cloudless sky\n(D) A woman in blue jacket shaving a cows utters.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -966,11 +966,11 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000516414.jpg",
-            "niah/niah_925_1_COCO_val2014_000000089432.jpg",
-            "niah/niah_925_4_COCO_val2014_000000053893.jpg",
-            "niah/niah_925_3_COCO_val2014_000000129587.jpg",
-            "niah/niah_925_5_COCO_val2014_000000095132.jpg"
+            "multi/COCO_val2014_000000516414.jpg",
+            "multi/niah_925_1_COCO_val2014_000000089432.jpg",
+            "multi/niah_925_4_COCO_val2014_000000053893.jpg",
+            "multi/niah_925_3_COCO_val2014_000000129587.jpg",
+            "multi/niah_925_5_COCO_val2014_000000095132.jpg"
         ],
         "question1": "Find the frame of a man riding a skateboard on top of a metal rail. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) On an unmade bed sits a blue book.\n(B) Three zebra who are standing next to a wooden trough. \n(C) two boats sitting in the water near a boating dock \n(D) THE ELEPHANT IS IN THE BARN EATING GRASS.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -979,13 +979,13 @@
     },
     {
         "images": [
-            "niah/niah_681_6_COCO_val2014_000000087574.jpg",
-            "niah/niah_681_3_COCO_val2014_000000044575.jpg",
-            "niah/niah_681_1_COCO_val2014_000000190447.jpg",
-            "niah/niah_681_7_COCO_val2014_000000187240.jpg",
-            "niah/niah_681_5_COCO_val2014_000000033554.jpg",
-            "niah/niah_681_2_COCO_val2014_000000277793.jpg",
-            "val2014/COCO_val2014_000000192970.jpg"
+            "multi/niah_681_6_COCO_val2014_000000087574.jpg",
+            "multi/niah_681_3_COCO_val2014_000000044575.jpg",
+            "multi/niah_681_1_COCO_val2014_000000190447.jpg",
+            "multi/niah_681_7_COCO_val2014_000000187240.jpg",
+            "multi/niah_681_5_COCO_val2014_000000033554.jpg",
+            "multi/niah_681_2_COCO_val2014_000000277793.jpg",
+            "multi/COCO_val2014_000000192970.jpg"
         ],
         "question1": "Find the frame of an old bike sitting outside an antique store. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Street signs point people in traffic in the right direction\n(B) yellow daffodils sitting in a vase on a table\n(C) A red bus next to a white van on a street.\n(D) The giraffes are loitering in their manmade habitat.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -994,11 +994,11 @@
     },
     {
         "images": [
-            "niah/niah_34_5_COCO_val2014_000000129897.jpg",
-            "niah/niah_34_1_COCO_val2014_000000139108.jpg",
-            "niah/niah_34_3_COCO_val2014_000000526044.jpg",
-            "niah/niah_34_4_COCO_val2014_000000200710.jpg",
-            "val2014/COCO_val2014_000000047149.jpg"
+            "multi/niah_34_5_COCO_val2014_000000129897.jpg",
+            "multi/niah_34_1_COCO_val2014_000000139108.jpg",
+            "multi/niah_34_3_COCO_val2014_000000526044.jpg",
+            "multi/niah_34_4_COCO_val2014_000000200710.jpg",
+            "multi/COCO_val2014_000000047149.jpg"
         ],
         "question1": "Find the frame of the horses are grazing on the grassy field.  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a cow walking on a beach near water\n(B) A white bowl filled with a salad on top of a plate.\n(C) Two teddy bears that are set up to look like they got married.\n(D) A group of men sitting at a table in a cafe.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1007,12 +1007,12 @@
     },
     {
         "images": [
-            "niah/niah_40_6_COCO_val2014_000000554340.jpg",
-            "niah/niah_40_4_COCO_val2014_000000323418.jpg",
-            "niah/niah_40_1_COCO_val2014_000000407355.jpg",
-            "val2014/COCO_val2014_000000518773.jpg",
-            "niah/niah_40_2_COCO_val2014_000000062154.jpg",
-            "niah/niah_40_5_COCO_val2014_000000360208.jpg"
+            "multi/niah_40_6_COCO_val2014_000000554340.jpg",
+            "multi/niah_40_4_COCO_val2014_000000323418.jpg",
+            "multi/niah_40_1_COCO_val2014_000000407355.jpg",
+            "multi/COCO_val2014_000000518773.jpg",
+            "multi/niah_40_2_COCO_val2014_000000062154.jpg",
+            "multi/niah_40_5_COCO_val2014_000000360208.jpg"
         ],
         "question1": "Find the frame of a brown ottoman sits near a black counter in a vacant room. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Blond haired woman wearing a black top hat.\n(B) Eight jets in the sky in a flying formation.\n(C) A white bread sandwich has ham and jalapenos in it. \n(D) Half a donut lying on the yellow line of a street.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -1021,13 +1021,13 @@
     },
     {
         "images": [
-            "niah/niah_498_1_COCO_val2014_000000379055.jpg",
-            "niah/niah_498_6_COCO_val2014_000000067315.jpg",
-            "niah/niah_498_2_COCO_val2014_000000216497.jpg",
-            "niah/niah_498_5_COCO_val2014_000000007952.jpg",
-            "niah/niah_498_7_COCO_val2014_000000125107.jpg",
-            "val2014/COCO_val2014_000000161840.jpg",
-            "niah/niah_498_3_COCO_val2014_000000246105.jpg"
+            "multi/niah_498_1_COCO_val2014_000000379055.jpg",
+            "multi/niah_498_6_COCO_val2014_000000067315.jpg",
+            "multi/niah_498_2_COCO_val2014_000000216497.jpg",
+            "multi/niah_498_5_COCO_val2014_000000007952.jpg",
+            "multi/niah_498_7_COCO_val2014_000000125107.jpg",
+            "multi/COCO_val2014_000000161840.jpg",
+            "multi/niah_498_3_COCO_val2014_000000246105.jpg"
         ],
         "question1": "Find the frame of an apple and a metal object sitting on blocks of wood with mirrors over them. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) three cats standing in a window looking out at the street  \n(B) A forlorn looking pug rests its head on an empty plastic bottle\n(C) A train on a train track running through a city.\n(D) A man's striped dress shirt and patterned tie.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -1036,11 +1036,11 @@
     },
     {
         "images": [
-            "niah/niah_116_3_COCO_val2014_000000121112.jpg",
-            "niah/niah_116_1_COCO_val2014_000000212112.jpg",
-            "niah/niah_116_5_COCO_val2014_000000306952.jpg",
-            "val2014/COCO_val2014_000000530220.jpg",
-            "niah/niah_116_4_COCO_val2014_000000246125.jpg"
+            "multi/niah_116_3_COCO_val2014_000000121112.jpg",
+            "multi/niah_116_1_COCO_val2014_000000212112.jpg",
+            "multi/niah_116_5_COCO_val2014_000000306952.jpg",
+            "multi/COCO_val2014_000000530220.jpg",
+            "multi/niah_116_4_COCO_val2014_000000246125.jpg"
         ],
         "question1": "Find the frame of a classic green track is parked at a show Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A green and silver motorcycle on display on a red carpet.\n(B) Two cats lying on desk facing camera with a keyboard in foreground.\n(C) A giraffe  is indoors behind a tall gate\n(D) Someone needs to show the baby the right end of a toothbrush.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -1049,11 +1049,11 @@
     },
     {
         "images": [
-            "niah/niah_135_4_COCO_val2014_000000531334.jpg",
-            "niah/niah_135_5_COCO_val2014_000000116405.jpg",
-            "niah/niah_135_1_COCO_val2014_000000171685.jpg",
-            "val2014/COCO_val2014_000000269344.jpg",
-            "niah/niah_135_3_COCO_val2014_000000199669.jpg"
+            "multi/niah_135_4_COCO_val2014_000000531334.jpg",
+            "multi/niah_135_5_COCO_val2014_000000116405.jpg",
+            "multi/niah_135_1_COCO_val2014_000000171685.jpg",
+            "multi/COCO_val2014_000000269344.jpg",
+            "multi/niah_135_3_COCO_val2014_000000199669.jpg"
         ],
         "question1": "Find the frame of a red motorcycle parked on the street while people pass Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) people working with their laptops on a wooden table\n(B) a dog jumping in the air with a frisbee in its mouth\n(C) Two large and furry foxes looking at something together.\n(D) Citrus heights water district building with large orange sculptures and a flagpole.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1062,11 +1062,11 @@
     },
     {
         "images": [
-            "niah/niah_223_3_COCO_val2014_000000401124.jpg",
-            "niah/niah_223_5_COCO_val2014_000000141634.jpg",
-            "niah/niah_223_4_COCO_val2014_000000022423.jpg",
-            "niah/niah_223_1_COCO_val2014_000000511307.jpg",
-            "val2014/COCO_val2014_000000176993.jpg"
+            "multi/niah_223_3_COCO_val2014_000000401124.jpg",
+            "multi/niah_223_5_COCO_val2014_000000141634.jpg",
+            "multi/niah_223_4_COCO_val2014_000000022423.jpg",
+            "multi/niah_223_1_COCO_val2014_000000511307.jpg",
+            "multi/COCO_val2014_000000176993.jpg"
         ],
         "question1": "Find the frame of a dog snuggled under covers in a bed. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A snowy bench is sitting in the woods.\n(B) this is a train coming down the rails\n(C) black and white photo of 2 women touching a horse\n(D) an elephant uses his tusk to lift a mans hat \nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1075,11 +1075,11 @@
     },
     {
         "images": [
-            "niah/niah_895_3_COCO_val2014_000000322887.jpg",
-            "niah/niah_895_1_COCO_val2014_000000126253.jpg",
-            "niah/niah_895_5_COCO_val2014_000000153307.jpg",
-            "val2014/COCO_val2014_000000080213.jpg",
-            "niah/niah_895_4_COCO_val2014_000000491755.jpg"
+            "multi/niah_895_3_COCO_val2014_000000322887.jpg",
+            "multi/niah_895_1_COCO_val2014_000000126253.jpg",
+            "multi/niah_895_5_COCO_val2014_000000153307.jpg",
+            "multi/COCO_val2014_000000080213.jpg",
+            "multi/niah_895_4_COCO_val2014_000000491755.jpg"
         ],
         "question1": "Find the frame of people are walking down a street in the rain. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Small living room with a white fire place in the center. \n(B) A vase filled with yellow flowers on a table.\n(C) A black cat with a beanie on it's head.\n(D) The sign warns of the impending curve in the road.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -1088,13 +1088,13 @@
     },
     {
         "images": [
-            "niah/niah_274_1_COCO_val2014_000000163444.jpg",
-            "val2014/COCO_val2014_000000105951.jpg",
-            "niah/niah_274_2_COCO_val2014_000000535950.jpg",
-            "niah/niah_274_3_COCO_val2014_000000499388.jpg",
-            "niah/niah_274_6_COCO_val2014_000000254976.jpg",
-            "niah/niah_274_7_COCO_val2014_000000132375.jpg",
-            "niah/niah_274_5_COCO_val2014_000000297425.jpg"
+            "multi/niah_274_1_COCO_val2014_000000163444.jpg",
+            "multi/COCO_val2014_000000105951.jpg",
+            "multi/niah_274_2_COCO_val2014_000000535950.jpg",
+            "multi/niah_274_3_COCO_val2014_000000499388.jpg",
+            "multi/niah_274_6_COCO_val2014_000000254976.jpg",
+            "multi/niah_274_7_COCO_val2014_000000132375.jpg",
+            "multi/niah_274_5_COCO_val2014_000000297425.jpg"
         ],
         "question1": "Find the frame of a stainless steel refrigerator is between cabinets in a kitchen. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A dog jumping and catching a frisbee in the park.\n(B) A sheet cake covered in blue frosting and two number 2 candles.\n(C) Someone eating what looks like a jelly roll.\n(D) a vase with a flower and a jar full of juice\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -1103,11 +1103,11 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000216785.jpg",
-            "niah/niah_55_5_COCO_val2014_000000420589.jpg",
-            "niah/niah_55_4_COCO_val2014_000000555366.jpg",
-            "niah/niah_55_3_COCO_val2014_000000550729.jpg",
-            "niah/niah_55_1_COCO_val2014_000000389699.jpg"
+            "multi/COCO_val2014_000000216785.jpg",
+            "multi/niah_55_5_COCO_val2014_000000420589.jpg",
+            "multi/niah_55_4_COCO_val2014_000000555366.jpg",
+            "multi/niah_55_3_COCO_val2014_000000550729.jpg",
+            "multi/niah_55_1_COCO_val2014_000000389699.jpg"
         ],
         "question1": "Find the frame of there are a couple of kangaroos out in a pasture and one of them is eating. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A zebra standing in a bright green field of grass.\n(B) a kite stuck up high in a tree\n(C) Several trains are parked next to a platform underneath a ceiling.\n(D) a rainbow colored kite is laying on the grass\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1116,13 +1116,13 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000205513.jpg",
-            "niah/niah_372_6_COCO_val2014_000000455943.jpg",
-            "niah/niah_372_1_COCO_val2014_000000085292.jpg",
-            "niah/niah_372_5_COCO_val2014_000000352936.jpg",
-            "niah/niah_372_3_COCO_val2014_000000290261.jpg",
-            "niah/niah_372_7_COCO_val2014_000000398507.jpg",
-            "niah/niah_372_2_COCO_val2014_000000230262.jpg"
+            "multi/COCO_val2014_000000205513.jpg",
+            "multi/niah_372_6_COCO_val2014_000000455943.jpg",
+            "multi/niah_372_1_COCO_val2014_000000085292.jpg",
+            "multi/niah_372_5_COCO_val2014_000000352936.jpg",
+            "multi/niah_372_3_COCO_val2014_000000290261.jpg",
+            "multi/niah_372_7_COCO_val2014_000000398507.jpg",
+            "multi/niah_372_2_COCO_val2014_000000230262.jpg"
         ],
         "question1": "Find the frame of a long train traveling along train tracks in a train yard. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A plane is flying through the sky on a fairly clear day.\n(B) A culinary display of a food dish is shown.\n(C) The bird is sitting on the abandoned bench.\n(D) Two army vehicles sit on a patch of grass. \nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1131,13 +1131,13 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000020070.jpg",
-            "niah/niah_521_6_COCO_val2014_000000141821.jpg",
-            "niah/niah_521_2_COCO_val2014_000000201764.jpg",
-            "niah/niah_521_5_COCO_val2014_000000220511.jpg",
-            "niah/niah_521_3_COCO_val2014_000000326410.jpg",
-            "niah/niah_521_7_COCO_val2014_000000272961.jpg",
-            "niah/niah_521_1_COCO_val2014_000000250592.jpg"
+            "multi/COCO_val2014_000000020070.jpg",
+            "multi/niah_521_6_COCO_val2014_000000141821.jpg",
+            "multi/niah_521_2_COCO_val2014_000000201764.jpg",
+            "multi/niah_521_5_COCO_val2014_000000220511.jpg",
+            "multi/niah_521_3_COCO_val2014_000000326410.jpg",
+            "multi/niah_521_7_COCO_val2014_000000272961.jpg",
+            "multi/niah_521_1_COCO_val2014_000000250592.jpg"
         ],
         "question1": "Find the frame of a large red and white boat docked next to a walkway. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Horses walking through the yard toward a barn.\n(B) Gourmet food on a picnic table with drinks\n(C) This is a man riding an off road skateboard with people flying kites in the background.\n(D) A man grimaces playfully while blow-drying his hair. \nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -1146,13 +1146,13 @@
     },
     {
         "images": [
-            "niah/niah_2_5_COCO_val2014_000000153832.jpg",
-            "niah/niah_2_3_COCO_val2014_000000454143.jpg",
-            "niah/niah_2_2_COCO_val2014_000000529348.jpg",
-            "niah/niah_2_6_COCO_val2014_000000504024.jpg",
-            "val2014/COCO_val2014_000000152823.jpg",
-            "niah/niah_2_7_COCO_val2014_000000498511.jpg",
-            "niah/niah_2_1_COCO_val2014_000000485613.jpg"
+            "multi/niah_2_5_COCO_val2014_000000153832.jpg",
+            "multi/niah_2_3_COCO_val2014_000000454143.jpg",
+            "multi/niah_2_2_COCO_val2014_000000529348.jpg",
+            "multi/niah_2_6_COCO_val2014_000000504024.jpg",
+            "multi/COCO_val2014_000000152823.jpg",
+            "multi/niah_2_7_COCO_val2014_000000498511.jpg",
+            "multi/niah_2_1_COCO_val2014_000000485613.jpg"
         ],
         "question1": "Find the frame of a baby kitten is being feed milk from a bottle. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Horses grazing in a green meadow at the foot of a mountain\n(B) Two giraffe stand near each other eating from a feeder. \n(C) A few birds sitting together in a nest.\n(D) A miniature railroad train going through a yard.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -1161,12 +1161,12 @@
     },
     {
         "images": [
-            "niah/niah_620_6_COCO_val2014_000000571636.jpg",
-            "niah/niah_620_5_COCO_val2014_000000173553.jpg",
-            "niah/niah_620_1_COCO_val2014_000000200365.jpg",
-            "val2014/COCO_val2014_000000358617.jpg",
-            "niah/niah_620_4_COCO_val2014_000000379161.jpg",
-            "niah/niah_620_2_COCO_val2014_000000514797.jpg"
+            "multi/niah_620_6_COCO_val2014_000000571636.jpg",
+            "multi/niah_620_5_COCO_val2014_000000173553.jpg",
+            "multi/niah_620_1_COCO_val2014_000000200365.jpg",
+            "multi/COCO_val2014_000000358617.jpg",
+            "multi/niah_620_4_COCO_val2014_000000379161.jpg",
+            "multi/niah_620_2_COCO_val2014_000000514797.jpg"
         ],
         "question1": "Find the frame of table near car with a bicycle along side and a plate with two hot dogs and a coke. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) To keep up with the action, the media people need to be as fast as the players.\n(B) A man in a truck filled with bottled water.\n(C) A vase with red berries and green stems.\n(D) The man in the wetsuit carries a red and white striped surfboard.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -1175,11 +1175,11 @@
     },
     {
         "images": [
-            "niah/niah_60_3_COCO_val2014_000000387250.jpg",
-            "val2014/COCO_val2014_000000579276.jpg",
-            "niah/niah_60_5_COCO_val2014_000000509531.jpg",
-            "niah/niah_60_4_COCO_val2014_000000257657.jpg",
-            "niah/niah_60_1_COCO_val2014_000000163309.jpg"
+            "multi/niah_60_3_COCO_val2014_000000387250.jpg",
+            "multi/COCO_val2014_000000579276.jpg",
+            "multi/niah_60_5_COCO_val2014_000000509531.jpg",
+            "multi/niah_60_4_COCO_val2014_000000257657.jpg",
+            "multi/niah_60_1_COCO_val2014_000000163309.jpg"
         ],
         "question1": "Find the frame of the sandwich is cut into four small sections. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a small child is biting in to some food\n(B) Yellow chrysanthemums are arranged in two white holders.\n(C) A smiling man wearing a business suit sits at his desk by the window. \n(D) Two loaves of bread in pans inside an oven.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -1188,12 +1188,12 @@
     },
     {
         "images": [
-            "niah/niah_494_4_COCO_val2014_000000142774.jpg",
-            "niah/niah_494_1_COCO_val2014_000000152281.jpg",
-            "niah/niah_494_6_COCO_val2014_000000402967.jpg",
-            "val2014/COCO_val2014_000000035049.jpg",
-            "niah/niah_494_2_COCO_val2014_000000068381.jpg",
-            "niah/niah_494_5_COCO_val2014_000000412431.jpg"
+            "multi/niah_494_4_COCO_val2014_000000142774.jpg",
+            "multi/niah_494_1_COCO_val2014_000000152281.jpg",
+            "multi/niah_494_6_COCO_val2014_000000402967.jpg",
+            "multi/COCO_val2014_000000035049.jpg",
+            "multi/niah_494_2_COCO_val2014_000000068381.jpg",
+            "multi/niah_494_5_COCO_val2014_000000412431.jpg"
         ],
         "question1": "Find the frame of tagged animals are grazing on grass in a field Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a young baseball player with a bat on the field\n(B) The city bus is traveling down the road with its passengers.\n(C) a clock sitting on a mantel in front of a mirror \n(D) Several bicycles and a bus parked outside a large building.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -1202,12 +1202,12 @@
     },
     {
         "images": [
-            "niah/niah_868_1_COCO_val2014_000000175831.jpg",
-            "niah/niah_868_4_COCO_val2014_000000492196.jpg",
-            "val2014/COCO_val2014_000000257336.jpg",
-            "niah/niah_868_6_COCO_val2014_000000323602.jpg",
-            "niah/niah_868_5_COCO_val2014_000000194381.jpg",
-            "niah/niah_868_2_COCO_val2014_000000551602.jpg"
+            "multi/niah_868_1_COCO_val2014_000000175831.jpg",
+            "multi/niah_868_4_COCO_val2014_000000492196.jpg",
+            "multi/COCO_val2014_000000257336.jpg",
+            "multi/niah_868_6_COCO_val2014_000000323602.jpg",
+            "multi/niah_868_5_COCO_val2014_000000194381.jpg",
+            "multi/niah_868_2_COCO_val2014_000000551602.jpg"
         ],
         "question1": "Find the frame of an image of a boy on his bike riding past a building Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) An elephant standing at the edge of a river in a lushly green landscape\n(B) A woman baking a pizza pie in the kitchen\n(C) A tug boat pulling a barge with two yellow containers.\n(D) A grey and white puppy wearing a bandana stands on a skateboard.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1216,11 +1216,11 @@
     },
     {
         "images": [
-            "niah/niah_784_4_COCO_val2014_000000469051.jpg",
-            "val2014/COCO_val2014_000000313623.jpg",
-            "niah/niah_784_1_COCO_val2014_000000073470.jpg",
-            "niah/niah_784_5_COCO_val2014_000000164464.jpg",
-            "niah/niah_784_3_COCO_val2014_000000388157.jpg"
+            "multi/niah_784_4_COCO_val2014_000000469051.jpg",
+            "multi/COCO_val2014_000000313623.jpg",
+            "multi/niah_784_1_COCO_val2014_000000073470.jpg",
+            "multi/niah_784_5_COCO_val2014_000000164464.jpg",
+            "multi/niah_784_3_COCO_val2014_000000388157.jpg"
         ],
         "question1": "Find the frame of a man preparing donuts at a donut shop.  Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a woman holding a colorful kite in the shape of a plane\n(B) A bench with a couple of skateboard sparked underneath it.\n(C) A large white construction truck parked in a lot area in front of a building supply store.\n(D) Bananas hanging on tree in their natural form.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -1229,13 +1229,13 @@
     },
     {
         "images": [
-            "niah/niah_963_6_COCO_val2014_000000019890.jpg",
-            "niah/niah_963_2_COCO_val2014_000000036331.jpg",
-            "niah/niah_963_1_COCO_val2014_000000079024.jpg",
-            "val2014/COCO_val2014_000000397327.jpg",
-            "niah/niah_963_3_COCO_val2014_000000100974.jpg",
-            "niah/niah_963_5_COCO_val2014_000000271900.jpg",
-            "niah/niah_963_7_COCO_val2014_000000466531.jpg"
+            "multi/niah_963_6_COCO_val2014_000000019890.jpg",
+            "multi/niah_963_2_COCO_val2014_000000036331.jpg",
+            "multi/niah_963_1_COCO_val2014_000000079024.jpg",
+            "multi/COCO_val2014_000000397327.jpg",
+            "multi/niah_963_3_COCO_val2014_000000100974.jpg",
+            "multi/niah_963_5_COCO_val2014_000000271900.jpg",
+            "multi/niah_963_7_COCO_val2014_000000466531.jpg"
         ],
         "question1": "Find the frame of a motorcycle sits near a door on a walkway Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Two zebras standing in the sand, eating hay.\n(B) The bathroom has very white appliances in it.\n(C) Four lambs on a farm enjoy eating their hay.\n(D) A small bird sits on a corn plant.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1244,13 +1244,13 @@
     },
     {
         "images": [
-            "niah/niah_16_5_COCO_val2014_000000246270.jpg",
-            "niah/niah_16_3_COCO_val2014_000000529636.jpg",
-            "val2014/COCO_val2014_000000144250.jpg",
-            "niah/niah_16_7_COCO_val2014_000000548498.jpg",
-            "niah/niah_16_2_COCO_val2014_000000188817.jpg",
-            "niah/niah_16_6_COCO_val2014_000000372220.jpg",
-            "niah/niah_16_1_COCO_val2014_000000118739.jpg"
+            "multi/niah_16_5_COCO_val2014_000000246270.jpg",
+            "multi/niah_16_3_COCO_val2014_000000529636.jpg",
+            "multi/COCO_val2014_000000144250.jpg",
+            "multi/niah_16_7_COCO_val2014_000000548498.jpg",
+            "multi/niah_16_2_COCO_val2014_000000188817.jpg",
+            "multi/niah_16_6_COCO_val2014_000000372220.jpg",
+            "multi/niah_16_1_COCO_val2014_000000118739.jpg"
         ],
         "question1": "Find the frame of large pizza pie with one slice missing on the table Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) An old man dressed in black on his phone.\n(B) A kitten is sitting in a bowl on a table.\n(C) A giraffe and its young on an open prairie.\n(D) Three red buses are parked on opposite sides of the road.\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -1259,11 +1259,11 @@
     },
     {
         "images": [
-            "niah/niah_459_5_COCO_val2014_000000344928.jpg",
-            "niah/niah_459_3_COCO_val2014_000000522782.jpg",
-            "niah/niah_459_1_COCO_val2014_000000392905.jpg",
-            "niah/niah_459_4_COCO_val2014_000000075051.jpg",
-            "val2014/COCO_val2014_000000333998.jpg"
+            "multi/niah_459_5_COCO_val2014_000000344928.jpg",
+            "multi/niah_459_3_COCO_val2014_000000522782.jpg",
+            "multi/niah_459_1_COCO_val2014_000000392905.jpg",
+            "multi/niah_459_4_COCO_val2014_000000075051.jpg",
+            "multi/COCO_val2014_000000333998.jpg"
         ],
         "question1": "Find the frame of an elephant swinging its trunk inside of a pen. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A kitchen that has a refrigerator, oven, and sink in it.\n(B) Three desktop screens that are on a table.\n(C) a toilet bowl and a trash can in a bathroom\n(D) A small black kitten digs into a plastic mug.\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -1272,11 +1272,11 @@
     },
     {
         "images": [
-            "niah/niah_834_3_COCO_val2014_000000198120.jpg",
-            "niah/niah_834_1_COCO_val2014_000000143901.jpg",
-            "niah/niah_834_4_COCO_val2014_000000361621.jpg",
-            "niah/niah_834_5_COCO_val2014_000000150212.jpg",
-            "val2014/COCO_val2014_000000219798.jpg"
+            "multi/niah_834_3_COCO_val2014_000000198120.jpg",
+            "multi/niah_834_1_COCO_val2014_000000143901.jpg",
+            "multi/niah_834_4_COCO_val2014_000000361621.jpg",
+            "multi/niah_834_5_COCO_val2014_000000150212.jpg",
+            "multi/COCO_val2014_000000219798.jpg"
         ],
         "question1": "Find the frame of a woman holding a lit birthday cake at the base of the stairs. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A cat sits in a bathroom sink while looking outward.\n(B) Two big boxes of donuts and drinks displayed in an office.\n(C) Looking past a snowboard in the snow to a city beyond\n(D) A dog is walking while wearing brightly colored clothing.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -1285,13 +1285,13 @@
     },
     {
         "images": [
-            "niah/niah_924_7_COCO_val2014_000000221521.jpg",
-            "niah/niah_924_3_COCO_val2014_000000291528.jpg",
-            "niah/niah_924_5_COCO_val2014_000000130291.jpg",
-            "niah/niah_924_6_COCO_val2014_000000015954.jpg",
-            "niah/niah_924_2_COCO_val2014_000000131882.jpg",
-            "val2014/COCO_val2014_000000010039.jpg",
-            "niah/niah_924_1_COCO_val2014_000000427518.jpg"
+            "multi/niah_924_7_COCO_val2014_000000221521.jpg",
+            "multi/niah_924_3_COCO_val2014_000000291528.jpg",
+            "multi/niah_924_5_COCO_val2014_000000130291.jpg",
+            "multi/niah_924_6_COCO_val2014_000000015954.jpg",
+            "multi/niah_924_2_COCO_val2014_000000131882.jpg",
+            "multi/COCO_val2014_000000010039.jpg",
+            "multi/niah_924_1_COCO_val2014_000000427518.jpg"
         ],
         "question1": "Find the frame of a baseball player talking to a coach on the field. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) An antique clock tower rises above into the cloudy skies.\n(B) Three wood carvings of humans hold up a bench\n(C) A woman is fixing a man's red tie.\n(D) Two giraffes standing outside while people watch them\nOnly give the best option. Best option: (",
         "answer1": "A",
@@ -1300,12 +1300,12 @@
     },
     {
         "images": [
-            "niah/niah_24_1_COCO_val2014_000000032375.jpg",
-            "niah/niah_24_4_COCO_val2014_000000066926.jpg",
-            "val2014/COCO_val2014_000000156458.jpg",
-            "niah/niah_24_6_COCO_val2014_000000095191.jpg",
-            "niah/niah_24_5_COCO_val2014_000000014990.jpg",
-            "niah/niah_24_2_COCO_val2014_000000537132.jpg"
+            "multi/niah_24_1_COCO_val2014_000000032375.jpg",
+            "multi/niah_24_4_COCO_val2014_000000066926.jpg",
+            "multi/COCO_val2014_000000156458.jpg",
+            "multi/niah_24_6_COCO_val2014_000000095191.jpg",
+            "multi/niah_24_5_COCO_val2014_000000014990.jpg",
+            "multi/niah_24_2_COCO_val2014_000000537132.jpg"
         ],
         "question1": "Find the frame of the two eddy bears are leaning on the purplish pillows Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A bunch of glazed donuts sitting on a table.\n(B) A dog has came up from underneath a picnic table and rests his arms.\n(C) Two elephants following an individual on a dirt path\n(D) A train station with three trains near a building\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1314,11 +1314,11 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000527064.jpg",
-            "niah/niah_674_3_COCO_val2014_000000402967.jpg",
-            "niah/niah_674_1_COCO_val2014_000000361656.jpg",
-            "niah/niah_674_5_COCO_val2014_000000205196.jpg",
-            "niah/niah_674_4_COCO_val2014_000000124684.jpg"
+            "multi/COCO_val2014_000000527064.jpg",
+            "multi/niah_674_3_COCO_val2014_000000402967.jpg",
+            "multi/niah_674_1_COCO_val2014_000000361656.jpg",
+            "multi/niah_674_5_COCO_val2014_000000205196.jpg",
+            "multi/niah_674_4_COCO_val2014_000000124684.jpg"
         ],
         "question1": "Find the frame of a close up of a bunch of ripened bananas. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) Several bicycles and a bus parked outside a large building.\n(B) An oblong pizza with mushrooms is on a cutting board.\n(C) A woman watching a frisbee fly just above her head.\n(D) A bunch of doughnuts that are on a table.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1327,12 +1327,12 @@
     },
     {
         "images": [
-            "niah/niah_201_6_COCO_val2014_000000279024.jpg",
-            "niah/niah_201_5_COCO_val2014_000000181816.jpg",
-            "niah/niah_201_4_COCO_val2014_000000437859.jpg",
-            "niah/niah_201_2_COCO_val2014_000000477534.jpg",
-            "niah/niah_201_1_COCO_val2014_000000189773.jpg",
-            "val2014/COCO_val2014_000000509811.jpg"
+            "multi/niah_201_6_COCO_val2014_000000279024.jpg",
+            "multi/niah_201_5_COCO_val2014_000000181816.jpg",
+            "multi/niah_201_4_COCO_val2014_000000437859.jpg",
+            "multi/niah_201_2_COCO_val2014_000000477534.jpg",
+            "multi/niah_201_1_COCO_val2014_000000189773.jpg",
+            "multi/COCO_val2014_000000509811.jpg"
         ],
         "question1": "Find the frame of a double high bus that is sitting on the street. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a person in an outfit is sitting on a bench\n(B) Those cars are all parked along the curb.\n(C) Library with table and closed laptops with one person studying.\n(D) A bundle of trash with a toilet basin, polythenes and bottles\nOnly give the best option. Best option: (",
         "answer1": "C",
@@ -1341,11 +1341,11 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000451150.jpg",
-            "niah/niah_939_1_COCO_val2014_000000041837.jpg",
-            "niah/niah_939_3_COCO_val2014_000000566687.jpg",
-            "niah/niah_939_5_COCO_val2014_000000574200.jpg",
-            "niah/niah_939_4_COCO_val2014_000000249757.jpg"
+            "multi/COCO_val2014_000000451150.jpg",
+            "multi/niah_939_1_COCO_val2014_000000041837.jpg",
+            "multi/niah_939_3_COCO_val2014_000000566687.jpg",
+            "multi/niah_939_5_COCO_val2014_000000574200.jpg",
+            "multi/niah_939_4_COCO_val2014_000000249757.jpg"
         ],
         "question1": "Find the frame of baggage carriers at an airport next to a jet liner Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) The red and blue sign wants to stop the war on workers.\n(B) The six donuts are made with various seasonings.\n(C) A colorful vegetable salad is in a green bowl. \n(D) A bus yard filled with lots of yellow school buses.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1354,12 +1354,12 @@
     },
     {
         "images": [
-            "niah/niah_130_6_COCO_val2014_000000075481.jpg",
-            "val2014/COCO_val2014_000000415949.jpg",
-            "niah/niah_130_2_COCO_val2014_000000156832.jpg",
-            "niah/niah_130_4_COCO_val2014_000000036196.jpg",
-            "niah/niah_130_1_COCO_val2014_000000169700.jpg",
-            "niah/niah_130_5_COCO_val2014_000000522959.jpg"
+            "multi/niah_130_6_COCO_val2014_000000075481.jpg",
+            "multi/COCO_val2014_000000415949.jpg",
+            "multi/niah_130_2_COCO_val2014_000000156832.jpg",
+            "multi/niah_130_4_COCO_val2014_000000036196.jpg",
+            "multi/niah_130_1_COCO_val2014_000000169700.jpg",
+            "multi/niah_130_5_COCO_val2014_000000522959.jpg"
         ],
         "question1": "Find the frame of tall clock tower made of grey brick stands tall Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A street corner has a sign, and across the street is a store.\n(B) A blue and white airplane with nose pointing out on a runway while a person on a bike rides by.\n(C) A wheel control zone sign posted on a sidewalk\n(D) A couch and table in a small room.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -1368,12 +1368,12 @@
     },
     {
         "images": [
-            "niah/niah_375_4_COCO_val2014_000000216962.jpg",
-            "val2014/COCO_val2014_000000217039.jpg",
-            "niah/niah_375_1_COCO_val2014_000000296724.jpg",
-            "niah/niah_375_2_COCO_val2014_000000237207.jpg",
-            "niah/niah_375_5_COCO_val2014_000000576822.jpg",
-            "niah/niah_375_6_COCO_val2014_000000135167.jpg"
+            "multi/niah_375_4_COCO_val2014_000000216962.jpg",
+            "multi/COCO_val2014_000000217039.jpg",
+            "multi/niah_375_1_COCO_val2014_000000296724.jpg",
+            "multi/niah_375_2_COCO_val2014_000000237207.jpg",
+            "multi/niah_375_5_COCO_val2014_000000576822.jpg",
+            "multi/niah_375_6_COCO_val2014_000000135167.jpg"
         ],
         "question1": "Find the frame of a room that has a brick wall and wood floorings with throw carpets on the floor. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) A white plated topped with different types of food.\n(B) A bedroom that appears to be very white.\n(C) If you have some animals that are eating something up a tree.\n(D) A Kenya Airways plane with red engine cover on the ground.\nOnly give the best option. Best option: (",
         "answer1": "D",
@@ -1382,12 +1382,12 @@
     },
     {
         "images": [
-            "val2014/COCO_val2014_000000470553.jpg",
-            "niah/niah_972_5_COCO_val2014_000000172924.jpg",
-            "niah/niah_972_6_COCO_val2014_000000148957.jpg",
-            "niah/niah_972_2_COCO_val2014_000000080213.jpg",
-            "niah/niah_972_4_COCO_val2014_000000062808.jpg",
-            "niah/niah_972_1_COCO_val2014_000000224702.jpg"
+            "multi/COCO_val2014_000000470553.jpg",
+            "multi/niah_972_5_COCO_val2014_000000172924.jpg",
+            "multi/niah_972_6_COCO_val2014_000000148957.jpg",
+            "multi/niah_972_2_COCO_val2014_000000080213.jpg",
+            "multi/niah_972_4_COCO_val2014_000000062808.jpg",
+            "multi/niah_972_1_COCO_val2014_000000224702.jpg"
         ],
         "question1": "Find the frame of a man is holding a tennis ball and tennis racket while a woman is looking at him from behind. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a train that is on a road next to some buildings\n(B) A half eaten cake sitting on a pan with candy.\n(C) The box contains six donuts, but only two are chocolate covered.\n(D) Two people sitting at a table with a pizza pie.\nOnly give the best option. Best option: (",
         "answer1": "B",
@@ -1396,13 +1396,13 @@
     },
     {
         "images": [
-            "niah/niah_54_1_COCO_val2014_000000520812.jpg",
-            "niah/niah_54_2_COCO_val2014_000000540820.jpg",
-            "niah/niah_54_5_COCO_val2014_000000486397.jpg",
-            "niah/niah_54_3_COCO_val2014_000000076310.jpg",
-            "niah/niah_54_7_COCO_val2014_000000435359.jpg",
-            "val2014/COCO_val2014_000000005617.jpg",
-            "niah/niah_54_6_COCO_val2014_000000407019.jpg"
+            "multi/niah_54_1_COCO_val2014_000000520812.jpg",
+            "multi/niah_54_2_COCO_val2014_000000540820.jpg",
+            "multi/niah_54_5_COCO_val2014_000000486397.jpg",
+            "multi/niah_54_3_COCO_val2014_000000076310.jpg",
+            "multi/niah_54_7_COCO_val2014_000000435359.jpg",
+            "multi/COCO_val2014_000000005617.jpg",
+            "multi/niah_54_6_COCO_val2014_000000407019.jpg"
         ],
         "question1": "Find the frame of baby sheep lie in a grassy field with their mother standing over them Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a polar bear standing in a rocky habitat\n(B) A computer is left on in front of a bookshelf\n(C) a woman walks with some sheep down a walk way \n(D) Two cats are laying on separate pillows on a bed. \nOnly give the best option. Best option: (",
         "answer1": "D",

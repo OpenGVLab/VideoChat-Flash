@@ -2,121 +2,121 @@
     {
         "question": "Find the frame of a plate of food with some salad on bread. what is the color of the plate\nOptions: (A) white\n(B) purple\n(C) green\n(D) orange\nOnly give the best option. Best option: (",
         "answer": "A",
-        "image": "val2014/COCO_val2014_000000152808.jpg",
+        "image": "single/COCO_val2014_000000152808.jpg",
         "id": 0
     },
     {
         "question": "Find the frame of a MALE IN THE PROCESS OF HITTING A TENNIS BALL ON THE TENNIS COURT what is the man swinging at a ball on a tennis court\nOptions: (A) racquet\n(B) machine\n(C) device\n(D) knife\nOnly give the best option. Best option: (",
         "answer": "A",
-        "image": "val2014/COCO_val2014_000000306186.jpg",
+        "image": "single/COCO_val2014_000000306186.jpg",
         "id": 1
     },
     {
         "question": "Find the frame of a man being pulled along in the ocean on a small boat with an animal running beside him. what is running next to a man parasurfing in the water\nOptions: (A) cats\n(B) panda\n(C) dog\n(D) cows\nOnly give the best option. Best option: (",
         "answer": "C",
-        "image": "val2014/COCO_val2014_000000115912.jpg",
+        "image": "single/COCO_val2014_000000115912.jpg",
         "id": 2
     },
     {
         "question": "Find the frame of a partially eaten piece of quiche by a keyboard  what is the color of the plate\nOptions: (A) gray\n(B) purple\n(C) white\n(D) black\nOnly give the best option. Best option: (",
         "answer": "C",
-        "image": "val2014/COCO_val2014_000000430002.jpg",
+        "image": "single/COCO_val2014_000000430002.jpg",
         "id": 3
     },
     {
         "question": "Find the frame of a red bike with white handles is locked to a black pole on a sidewalk. what parked in front of a parking meter\nOptions: (A) truck\n(B) surfboard\n(C) bicycle\n(D) engine\nOnly give the best option. Best option: (",
         "answer": "C",
-        "image": "val2014/COCO_val2014_000000370208.jpg",
+        "image": "single/COCO_val2014_000000370208.jpg",
         "id": 4
     },
     {
         "question": "Find the frame of a woman standing on a cobbled street holding a umbrella.  what is the color of the umbrella\nOptions: (A) green\n(B) purple\n(C) yellow\n(D) gray\nOnly give the best option. Best option: (",
         "answer": "B",
-        "image": "val2014/COCO_val2014_000000313588.jpg",
+        "image": "single/COCO_val2014_000000313588.jpg",
         "id": 5
     },
     {
         "question": "Find the frame of there is a metal and wood chair in a garden what is in an overgrown yard by a hose\nOptions: (A) shelf\n(B) sofa\n(C) bench\n(D) bed\nOnly give the best option. Best option: (",
         "answer": "C",
-        "image": "val2014/COCO_val2014_000000125476.jpg",
+        "image": "single/COCO_val2014_000000125476.jpg",
         "id": 6
     },
     {
         "question": "Find the frame of a very tall and skinny building with a clock. what is the color of the trees\nOptions: (A) green\n(B) blue\n(C) white\n(D) black\nOnly give the best option. Best option: (",
         "answer": "A",
-        "image": "val2014/COCO_val2014_000000083086.jpg",
+        "image": "single/COCO_val2014_000000083086.jpg",
         "id": 7
     },
     {
         "question": "Find the frame of a bear sits in a hole inside of a large, green tree. what is the color of the bear\nOptions: (A) red\n(B) black\n(C) gray\n(D) white\nOnly give the best option. Best option: (",
         "answer": "B",
-        "image": "val2014/COCO_val2014_000000361341.jpg",
+        "image": "single/COCO_val2014_000000361341.jpg",
         "id": 8
     },
     {
         "question": "Find the frame of several people lined up to board something on a dirt airstrip. what is being loaded for a trip\nOptions: (A) skateboard\n(B) motorcycle\n(C) surfboard\n(D) airplane\nOnly give the best option. Best option: (",
         "answer": "D",
-        "image": "val2014/COCO_val2014_000000497878.jpg",
+        "image": "single/COCO_val2014_000000497878.jpg",
         "id": 9
     },
     {
         "question": "Find the frame of two cows, a motorcycle and a man in front of a church. what is the color of the church\nOptions: (A) blue\n(B) black\n(C) brown\n(D) white\nOnly give the best option. Best option: (",
         "answer": "D",
-        "image": "val2014/COCO_val2014_000000442223.jpg",
+        "image": "single/COCO_val2014_000000442223.jpg",
         "id": 10
     },
     {
         "question": "Find the frame of a man holding a white umbrella over another white umbrella. what is the photographer setting up\nOptions: (A) machine\n(B) equipment\n(C) racquet\n(D) device\nOnly give the best option. Best option: (",
         "answer": "B",
-        "image": "val2014/COCO_val2014_000000093089.jpg",
+        "image": "single/COCO_val2014_000000093089.jpg",
         "id": 11
     },
     {
         "question": "Find the frame of the person is taking a picture of herself. where does the woman take a photo of herself\nOptions: (A) tub\n(B) floor\n(C) mirror\n(D) refrigerator\nOnly give the best option. Best option: (",
         "answer": "C",
-        "image": "val2014/COCO_val2014_000000032510.jpg",
+        "image": "single/COCO_val2014_000000032510.jpg",
         "id": 12
     },
     {
         "question": "Find the frame of a seagull walking a muddy beach front area what is the color of the bird\nOptions: (A) purple\n(B) white\n(C) yellow\n(D) red\nOnly give the best option. Best option: (",
         "answer": "B",
-        "image": "val2014/COCO_val2014_000000019404.jpg",
+        "image": "single/COCO_val2014_000000019404.jpg",
         "id": 13
     },
     {
         "question": "Find the frame of a fire engine traveling through a busy street. what does rescue make a turn on a city street\nOptions: (A) surfboards\n(B) ship\n(C) boats\n(D) truck\nOnly give the best option. Best option: (",
         "answer": "D",
-        "image": "val2014/COCO_val2014_000000246057.jpg",
+        "image": "single/COCO_val2014_000000246057.jpg",
         "id": 14
     },
     {
         "question": "Find the frame of a fancy desert on a table with a number of drinking glasses. what is the color of the flowers\nOptions: (A) purple\n(B) red\n(C) black\n(D) brown\nOnly give the best option. Best option: (",
         "answer": "B",
-        "image": "val2014/COCO_val2014_000000277689.jpg",
+        "image": "single/COCO_val2014_000000277689.jpg",
         "id": 15
     },
     {
         "question": "Find the frame of two men in black coats stand next to white chairs. how many man looking frightened , leaning on an umbrella while the other man is smiling\nOptions: (A) one\n(B) three\n(C) six\n(D) five\nOnly give the best option. Best option: (",
         "answer": "A",
-        "image": "val2014/COCO_val2014_000000186218.jpg",
+        "image": "single/COCO_val2014_000000186218.jpg",
         "id": 16
     },
     {
         "question": "Find the frame of a group of oranges on plates in front of Oriental Statues. how many pedestal plates holding oranges on a table\nOptions: (A) seven\n(B) one\n(C) ten\n(D) three\nOnly give the best option. Best option: (",
         "answer": "D",
-        "image": "val2014/COCO_val2014_000000137085.jpg",
+        "image": "single/COCO_val2014_000000137085.jpg",
         "id": 17
     },
     {
         "question": "Find the frame of a group of girls stand around with umbrellas. what is the color of the skirts\nOptions: (A) red\n(B) orange\n(C) white\n(D) yellow\nOnly give the best option. Best option: (",
         "answer": "C",
-        "image": "val2014/COCO_val2014_000000403995.jpg",
+        "image": "single/COCO_val2014_000000403995.jpg",
         "id": 18
     },
     {
         "question": "Find the frame of a delicious looking salad with tuna and bread. what fills the plate with another salad sitting alongside\nOptions: (A) drink\n(B) cake\n(C) drinks\n(D) sandwich\nOnly give the best option. Best option: (",
         "answer": "D",
-        "image": "val2014/COCO_val2014_000000578418.jpg",
+        "image": "single/COCO_val2014_000000578418.jpg",
         "id": 19
     }
 ]

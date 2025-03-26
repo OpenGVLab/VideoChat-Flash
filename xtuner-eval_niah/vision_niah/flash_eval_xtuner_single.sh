@@ -12,13 +12,6 @@ JOB_NAME=$(basename $0)_$(date +"%Y%m%d_%H%M%S")
 NUM_GPUS=8
 
 
-# srun -p video5 \
-#     --job-name=${JOB_NAME} \
-#     --ntasks=1 \
-#     --gres=gpu:${NUM_GPUS} \
-#     --ntasks-per-node=1 \
-#     --cpus-per-task=16 \
-#     --kill-on-bad-exit=1 \
 python vision_niah/produce_haystack_embedding.py \
     --model vision_niah/model_weights/$MODEL_NAME \
     --video_path vision_niah/data/haystack_videos/gzyz.mkv \
@@ -29,13 +22,6 @@ python vision_niah/produce_haystack_embedding.py \
 
 
 
-# srun -p video5 \
-#     --job-name=${JOB_NAME} \
-#     --ntasks=1 \
-#     --gres=gpu:${NUM_GPUS} \
-#     --ntasks-per-node=1 \
-#     --cpus-per-task=16 \
-#     --kill-on-bad-exit=1 \
 python vision_niah/single_produce_needle_embedding.py \
     --model vision_niah/model_weights/$MODEL_NAME \
     --needle_dataset vision_niah/data/source_data/niah-coco-singlehop_20.json \
@@ -45,14 +31,6 @@ python vision_niah/single_produce_needle_embedding.py \
 
 
 
-# srun -p video5 \
-#     --quotatype=spot \
-#     --job-name=${JOB_NAME} \
-#     --ntasks=1 \
-#     --gres=gpu:${NUM_GPUS} \
-#     --ntasks-per-node=1 \
-#     --cpus-per-task=16 \
-#     --kill-on-bad-exit=1 \
 torchrun --nproc-per-node=${NUM_GPUS} vision_niah/single_eval_vision_niah.py \
     --model  vision_niah/model_weights/$MODEL_NAME \
     --needle_embedding_dir vision_niah/data/needle_embeddings/$MODEL_NAME \

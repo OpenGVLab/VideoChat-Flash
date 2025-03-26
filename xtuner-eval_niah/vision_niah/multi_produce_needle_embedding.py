@@ -15,7 +15,7 @@ from petrel_client.client import Client
 client = Client('~/petreloss.conf')
 
 
-data_root_path = "pnorm2:s3://coco-caption/"
+data_root_path = "path_to/niah_data/"
 
 
 def main(args):

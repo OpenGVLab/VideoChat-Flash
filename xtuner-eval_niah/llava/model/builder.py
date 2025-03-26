@@ -46,7 +46,9 @@ def load_pretrained_model(model_path, model_base, model_name, load_8bit=False, l
             is_multimodal = False
     else:
         is_multimodal = False
-
+        
+    is_multimodal=True
+    
     assert is_multimodal, "I need it!!!"
 
     if "llava" in model_name.lower() or is_multimodal:

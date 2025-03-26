@@ -16,7 +16,7 @@ python vision_niah/produce_haystack_embedding.py \
     --model vision_niah/model_weights/$MODEL_NAME \
     --video_path vision_niah/data/haystack_videos/gzyz.mkv \
     --output_dir vision_niah/data/haystack_embeddings/$MODEL_NAME \
-    --sampled_frames_num 3000 \
+    --sampled_frames_num 10000 \
     --pooling_size 0 \
     2>&1 | tee vision_niah/log/s1/eval_${MODEL_NAME}_$(date +"%Y%m%d_%H%M").log
 
@@ -37,9 +37,9 @@ torchrun --nproc-per-node=${NUM_GPUS} vision_niah/multi_eval_vision_niah.py \
     --needle_embedding_dir vision_niah/data_multi/needle_embeddings/$MODEL_NAME \
     --haystack_dir vision_niah/data/haystack_embeddings/$MODEL_NAME \
     --prompt_template qwen2 \
-    --max_frame_num 3000 \
-    --min_frame_num  500 \
-    --frame_interval 500 \
+    --max_frame_num 10000 \
+    --min_frame_num  1000 \
+    --frame_interval 1000 \
     2>&1 | tee vision_niah/log/s3/eval_multihop_${MODEL_NAME}_$(date +"%Y%m%d_%H%M").log
 
 done

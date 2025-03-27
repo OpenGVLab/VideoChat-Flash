@@ -26,11 +26,12 @@ This page provides specific evaluation methods for single-hop and multi-hop need
 
 **Eval Datasets**
 
-- Please download the image data for testing from the [Huggingface link]().
+- Please download the image and videodata for testing from the [Huggingface link](https://huggingface.co/datasets/OpenGVLab/NIAH-Video).
+- We place the annotaions of NIAH in `vision_niah/data` and `vision_niah/data_multi`.
 
 **Haystack Video**
 
-- Please place the haystack video of the model to be tested into `./xtuner/vision_niah/data/haystack_videos`. The gzyz.mkv file used in our testing can be accessed via [this link]().
+- Please place the haystack video of the model to be tested into `./xtuner/vision_niah/data/haystack_videos`. The video_haystack.mkv file used in our testing can be accessed via [this link](https://huggingface.co/datasets/OpenGVLab/NIAH-Video).
 
 ---
 

@@ -14,7 +14,7 @@ NUM_GPUS=8
 
 python vision_niah/produce_haystack_embedding.py \
     --model vision_niah/model_weights/$MODEL_NAME \
-    --video_path vision_niah/data/haystack_videos/gzyz.mkv \
+    --video_path vision_niah/data/haystack_videos/video_haystack.mkv \
     --output_dir vision_niah/data/haystack_embeddings/$MODEL_NAME \
     --sampled_frames_num 3000 \
     --pooling_size 2 \

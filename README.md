@@ -19,6 +19,7 @@
 
 
 ## :fire: Updates
+- [x] **2025/03/27**:🔥🔥🔥 We release our dataset and evaluation codes for single-hop and multi-hop needle-in-a-haystack!
 - [x] **2025/03/09**:🔥🔥🔥 We release our weights of each training stage [here](https://github.com/OpenGVLab/VideoChat-Flash/blob/main/llava-train_videochat/README.), try to build your VideoChat-Flash on them!
 - [x] **2025/02/25**:🔥🔥🔥 We release our [training data](https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data), [training codes based LLaVA](llava-train_videochat) for VideoChat-Flash and [training codes based XTuner](xtuner-train_internvideo2_5) for finetuning InternVideo2.5.
 - [x] **2025/02/12**: 🎉🎉🎉Our VideoChat-Flash-7B@448 has achieved first place on the latest Video Detail Caption Benchmark, [AuroraCap](https://rese1f.github.io/aurora-web/).
@@ -27,8 +28,7 @@
     - We offer five models, [VideoChat2-Flash-2B@224](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-2B_res448) (Small LLM), [VideoChat2-Flash-7B@224](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2-7B_res224), [VideoChat2-Flash-7B@448](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2-7B_res448) (Overall best), [VideoChat-Flash-Qwen2_5-7B-1M](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-7B-1M_res224) (Super long video input) and [VideoChat-Flash-Qwen2_5-7B_InternVideo2-1B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-7B_InternVideo2-1B) (Stronger short-term temporal understanding).
     <!-- - We provide [online demos]() and demo codes that can be run locally. -->
 
-- [ ] Dataset and evaluation codes for single-hop and multi-hop needle-in-a-haystack;
-    <!-- -  We also provide the evaluation codes for various benchmarks, which are constructed based on [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval). -->
+
 
 
 ## :parrot: Introduction
@@ -50,7 +50,7 @@ Refer to [hf README](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-2B
 ## Evaluation
 
 
-See [evaluation codes](lmms-eval_videochat).
+See [evaluation codes](lmms-eval_videochat). And [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) have supported our model, you also could use it to evaluate our model on varous benchmarks.
 
 ## Training
 
@@ -63,6 +63,8 @@ See [training codes based LLaVA](llava-train_videochat) for VideoChat-Flash and 
 
 
 ![alt text](img/mhniah.png)
+
+See [xtuner-eval_niah](xtuner-eval_niah) for evaluation of Single-Hop NIAH-Video and Multi-Hop NIAH-Video.
 
 # :page_facing_up: Citation
 

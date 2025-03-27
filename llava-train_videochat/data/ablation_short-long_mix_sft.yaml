@@ -1,0 +1,357 @@
+datasets:
+  # image sft datasets
+  - json_path: annotations/image/textcaps.json # 21942 
+    sampling_strategy: "first:25%" 
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/textcaps
+  - json_path: annotations/image/textocr(gpt4v).json # 25104 
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/textocr(gpt4v)
+  - json_path: annotations/image/rendered_text(cauldron)_fix.json # 9995 
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/rendered_text(cauldron)
+  - json_path: annotations/image/iam(cauldron)_fix.json # 5658 
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/iam(cauldron)
+
+  - json_path: annotations/image/llavar_gpt4_20k.json # 19790
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/llavar_gpt4_20k
+
+  - json_path: annotations/image/allava_instruct_vflan4v.json 
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/allava_instruct_vflan4v
+  - json_path: annotations/image/allava_instruct_laion4v.json 
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/allava_instruct_laion4v
+  
+  - json_path: annotations/image/sharegpt4o.json  
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/sharegpt4o
+
+  - json_path: annotations/image/sharegpt4v(coco).json  
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/sharegpt4v(coco)
+  - json_path: annotations/image/sharegpt4v(knowledge).json  
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/sharegpt4v(knowledge)
+  - json_path: annotations/image/sharegpt4v(llava).json
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/sharegpt4v(llava)
+  - json_path: annotations/image/sharegpt4v(sam).json  
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/sharegpt4v(sam)
+  - json_path: annotations/image/tallyqa(cauldron,llava_format)_fix.json # 98675
+    sampling_strategy: "first:10%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/tallyqa(cauldron,llava_format) # 98680
+
+  - json_path: annotations/image/st_vqa(cauldron,llava_format)_fix.json # 17242
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-OneVision-Data/image/st_vqa(cauldron,llava_format) # 17247
+    
+  - json_path: annotations/image/llava_next_raw_format_processed_738k.json
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-NeXT-Data
+
+  - json_path: https://huggingface.co/datasets/lmms-lab/M4-Instruct-Data/m4_instruct_annotations.json
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/M4-Instruct-Data
+
+    
+  # video sft datasets
+  - json_path: annotations/video/caption_sharegemini_webvid_core100k_clean.json
+    sampling_strategy: "first:20%"
+    data_root: https://github.com/m-bain/webvid
+
+  - json_path: annotations/video/caption_sharegemini_k400_223k.json
+    sampling_strategy: "first:25%"
+    data_root: https://opendatalab.com/OpenMMLab/Kinetics-400
+
+  - json_path: annotations/video/caption_youcook2-youcook2-train_debug_9k.json
+    sampling_strategy: "first:25%"
+    data_root: http://youcook2.eecs.umich.edu/
+  - json_path: annotations/video/caption_textvr-textvr-train_40k.json
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/callsys/TextVR
+  - json_path: annotations/video/moviechat1k_caption-MovieChat-train_caption_1k.json
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/Enxin/MovieChat-1K_train
+  - json_path: annotations/video/caption_favd-favd-train_10k.json
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/OpenNLPLab/FAVDBench
+  - json_path: annotations/video/caption_sharegptvideo_300k-sharegptvideo-train_300k_302k.json
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/ShareGPTVideo/train_video_and_instruction/tree/main/train_300k
+    video_read_type: img
+  - json_path: annotations/video/caption_sharegpt4o-sharegpt4o_3k.json
+    sampling_strategy: "first:25%"
+    data_root: https://sharegpt4o.github.io/
+  - json_path: annotations/video/vqa_tvqa-tvqa_123k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://nlp.cs.unc.edu/data/jielei/tvqa/tvqa_public_html/index.html
+    video_read_type: img
+  - json_path: annotations/video/reasoning_next_qa-next_qa-train_35k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/doc-doc/NExT-QA
+  - json_path: annotations/video/vqa_tgif_transition_qa-tgif_transition_qa-train_53k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/YunseokJANG/tgif-qa
+    video_read_type: gif
+  - json_path: annotations/video/reasoning_clevrer_mc-clevrer_mc-train_43k_debug_43k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: http://clevrer.csail.mit.edu/
+  - json_path: annotations/video/reasoning_clevrer_qa-clevrer_qa-train_mc_40k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: http://clevrer.csail.mit.edu/
+  - json_path: annotations/video/classification_k710-k710-train_40k.jsonl
+    sampling_strategy: "first:25%"
+  - json_path: annotations/video/classification_ssv2-ssv2-train_40k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://www.qualcomm.com/developer/software/something-something-v-2-dataset
+  - json_path: annotations/video/lsmdc-lsmdc_297k.json
+    sampling_strategy: "first:25%"
+    data_root: https://sites.google.com/site/describingmovies/
+  - json_path: annotations/video/vqa_rgbd-nturgbd_clean_110k.json
+    sampling_strategy: "first:25%"
+    data_root: https://rose1.ntu.edu.sg/dataset/actionRecognition/
+  - json_path: annotations/video/vqa_perception_train-mc_question_train_forchoice_8k.json
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/google-deepmind/perception_test
+  - json_path: annotations/video/vqa_ego_qa-ego_qa-train_8k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://ego4d-data.org/
+  - json_path: annotations/video/vqa_tgif_transition_qa_openend-openend_qa_annos-tgif_transition_qa_train_openend_53k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/YunseokJANG/tgif-qa
+    video_read_type: gif
+  - json_path: annotations/video/vqa_tgif_frame_qa-tgif_frame_qa-train_40k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/YunseokJANG/tgif-qa
+    video_read_type: gif
+  - json_path: annotations/video/vqa_tgif_count-openend_qa_train_openend_26839.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/YunseokJANG/tgif-qa
+    video_read_type: gif
+  - json_path: annotations/video/vqa_tgif_action-openend_qa_train_openend_20471.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/YunseokJANG/tgif-qa
+    video_read_type: gif
+  - json_path: annotations/video/reasoning_next_qa_oe-openend_qa_annos-next_qa_train_openend_35k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/doc-doc/NExT-QA
+  - json_path: annotations/video/vqa_webvid_qa-webvid_qa-train_100k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/m-bain/webvid
+  - json_path: annotations/video/moviechat1k_global-MovieChat-train_global_1k.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/Enxin/MovieChat-1K_train
+
+  - json_path: annotations/video/grounding_didemo-didemo-train_66k.json
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/LisaAnne/TemporalLanguageRelease
+  - json_path: annotations/video/vqa_sharegptvideo_240k-sharegptvideo-train_240k_240k.json
+    sampling_strategy: "first:25%" 
+    data_root: https://huggingface.co/datasets/ShareGPTVideo/train_video_and_instruction/tree/main/train_300k
+    video_read_type: img
+  - json_path: annotations/video/caption_vidln_kinetics-vidln-kinetics_train_28k.json
+    sampling_strategy: "first:25%"
+    data_root: https://opendatalab.com/OpenMMLab/Kinetics_700
+  - json_path: annotations/video/caption_vidln_oops-vidln-oops_train_11k.json
+    sampling_strategy: "first:25%"
+    data_root: https://oops.cs.columbia.edu/
+  - json_path: annotations/video/caption_vidln_ovis-vidln-ovis_train_1k.json
+    sampling_strategy: "first:25%"
+    data_root: https://songbai.site/ovis/
+    video_read_type: img
+  - json_path: annotations/video/caption_vidln_uvo_sparse-vidln-uvo_sparse_train_6k.json
+    sampling_strategy: "first:25%"
+    data_root: https://sites.google.com/view/unidentified-video-object/dataset
+  - json_path: annotations/video/caption_vidln_uvo_dense-vidln-uvo_dense_train_1k.json
+    sampling_strategy: "first:25%"
+    data_root: https://sites.google.com/view/unidentified-video-object/dataset
+  - json_path: annotations/video/reasoning_star-star-train_46k.json
+    sampling_strategy: "first:25%"
+    data_root: https://bobbywu.com/STAR/
+
+  - json_path: annotations/video/vcg-plus_112K_clean_97k.json
+    sampling_strategy: "first:10%"
+    data_root: http://activity-net.org/
+
+
+
+  - json_path: annotations/video/vript_long_videos_en_20240911_fix.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/Mutonix/Vript
+
+  - json_path: annotations/video/vript_short_videos_en_20240911_fix.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/Mutonix/Vript
+
+  - json_path: annotations/video/guiworld_en_20241029_fix.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://gui-world.github.io/
+
+
+
+## llava video
+  - json_path: annotations/video/llava-video_2_3_m_academic_mc_v0_1_qa_processed_6901_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_2_3_m_nextqa_oe_qa_processed_61_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_0_30_s_youtube_oe_v0_1_qa_processed_420200_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_1_2_m_academic_oe_v0_1_qa_processed_26302_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_1_2_m_youtube_mc_v0_1_qa_processed_39710_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_30_60_s_nextqa_oe_qa_processed_6843_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_2_3_m_youtube_mc_v0_1_qa_processed_39967_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_2_3_m_academic_v0_1_cap_processed_3124_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_30_60_s_academic_oe_v0_1_qa_processed_57924_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_2_3_m_youtube_v0_1_cap_processed_24685_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_30_60_s_youtube_mc_v0_1_qa_processed_39927_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_0_30_s_activitynetqa_oe_qa_processed_2950_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_1_2_m_nextqa_oe_qa_processed_4694_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_30_60_s_youtube_oe_v0_1_qa_processed_110624_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_1_2_m_academic_mc_v0_1_qa_processed_4241_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_0_30_s_youtube_mc_v0_1_qa_processed_39353_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_30_60_s_activitynetqa_oe_qa_processed_4530_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_1_2_m_youtube_oe_v0_1_qa_processed_137645_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_30_60_s_academic_mc_v0_1_qa_processed_20346_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_30_60_s_youtube_v0_1_cap_processed_19995_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_0_30_s_nextqa_mc_qa_processed_5496_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_0_30_s_academic_mc_v0_1_qa_processed_5753_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_2_3_m_youtube_oe_v0_1_qa_processed_141495_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_1_2_m_nextqa_mc_qa_processed_4633_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_2_3_m_activitynetqa_oe_qa_processed_7460_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_2_3_m_nextqa_mc_qa_processed_52_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_1_2_m_activitynetqa_oe_qa_processed_8590_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_1_2_m_academic_v0_1_cap_processed_4627_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_30_60_s_academic_v0_1_cap_processed_10514_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_1_2_m_youtube_v0_1_cap_processed_24234_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_30_60_s_nextqa_mc_qa_processed_6843_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_0_30_s_nextqa_oe_qa_processed_5492_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_0_30_s_academic_oe_v0_1_qa_processed_48468_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_0_30_s_youtube_v0_1_cap_processed_79346_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_2_3_m_academic_oe_v0_1_qa_processed_18134_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_0_30_s_perceptiontest_mc_qa_processed_1785_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_30_60_s_perceptiontest_mc_qa_processed_618_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+  - json_path: annotations/video/llava-video_0_30_s_academic_v0_1_cap_processed_11985_with_duration.jsonl
+    sampling_strategy: "first:25%"
+    data_root: https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K
+
+
+  - json_path: annotations/video/timeit_ANet-TimeIT-Activitynet_Captions_11k.json
+    sampling_strategy: "first:25%"
+    data_root: http://activity-net.org//train
+  - json_path: annotations/video/timeit_COIN-TimeIT-COIN_10k.json
+    sampling_strategy: "first:25%"
+    data_root: https://coin-dataset.github.io/
+  - json_path: annotations/video/timeit_DiDeMo-TimeIT-DiDeMo_33k.json
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/LisaAnne/TemporalLanguageRelease
+  - json_path: annotations/video/timeit_HiREST-TimeIT-HiREST_1k.json
+    sampling_strategy: "first:25%"
+    data_root: https://hirest-cvpr2023.github.io/
+  - json_path: annotations/video/timeit_QuerYD-TimeIT-QuerYD_15k.json
+    sampling_strategy: "first:25%"
+    data_root: https://www.robots.ox.ac.uk/~vgg/data/queryd/
+  - json_path: annotations/video/timeit_ViTT-TimeIT-ViTT_6k.json
+    sampling_strategy: "first:25%"
+    data_root: https://github.com/google-research-datasets/Video-Timeline-Tags-ViTT
+
+  - json_path: annotations/video/grounding_ANetRTL-ActivityNet-RTL-ANet_RTL_34k.json
+    sampling_strategy: "first:25%"
+    data_root: http://activity-net.org//train
+  - json_path: annotations/video/grounding_ANetHL-ANet-HL-ANet_HL2_11k.json
+    sampling_strategy: "first:25%"
+    data_root: http://activity-net.org//train
+
+
+
+  - json_path: annotations/video/htstep_eventunderstanding-longvideo_annos-htstep_eventunderstanding_1k_1k.json
+    sampling_strategy: "first:25%"
+    video_read_type: img
+    data_root: https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data/tree/main/longvid_subset
+  - json_path: annotations/video/htstep_eventcount-longvideo_annos-htstep_eventcount_2k_2k.json
+    sampling_strategy: "first:25%"
+    video_read_type: img
+    data_root: https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data/tree/main/longvid_subset
+  - json_path: annotations/video/htstep_eventrelationship-longvideo_annos-htstep_eventrelationship_1k_1k.json
+    sampling_strategy: "first:25%"
+    video_read_type: img
+    data_root: https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data/tree/main/longvid_subset
+  - json_path: annotations/video/ego4dhcap_eventunderstanding-longvideo_annos-ego4dhcap_eventunderstanding_2k_2k.json
+    sampling_strategy: "first:25%"
+    video_read_type: img
+    data_root: https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data/tree/main/longvid_subset

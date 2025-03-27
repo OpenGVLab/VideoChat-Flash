@@ -11,8 +11,6 @@ from datasets import load_dataset
 import math
 import cv2
 import io
-from petrel_client.client import Client
-client = Client('~/petreloss.conf')
 
 
 data_root_path = "path_to/niah_data/"
@@ -45,11 +43,8 @@ def main(args):
         images_list = []
         for image_path in instance["images"]:
             frame_path = os.path.join(data_root_path, image_path)
-            if "s3://" in data_root_path:
-                img_bytes = client.get(frame_path)
-            else:
-                with open(frame_path, 'rb') as f:
-                    img_bytes = f.read()
+            with open(frame_path, 'rb') as f:
+                img_bytes = f.read()
             # img_np = np.frombuffer(img_bytes, np.uint8)
             # img = cv2.imdecode(img_np, cv2.IMREAD_COLOR)
             # cv2.cvtColor(img, cv2.COLOR_BGR2RGB, img)

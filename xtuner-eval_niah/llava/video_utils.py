@@ -10,14 +10,9 @@ import torch
 import numpy as np
 import math
 import gc
-# import torchaudio
 from torchvision.transforms.functional import pil_to_tensor
 import re
-# logger = logging.getLogger(__name__)
 
-# from models.backbones.beats.BEATs import BEATs, BEATsConfig
-# from petrel_client.client import Client
-# client = Client('~/petreloss.conf')
 
 
 def get_index(num_frames, num_segments):

@@ -10,12 +10,8 @@ from pathlib import Path
 from PIL import Image
 from datasets import load_dataset
 
-
 import math
-
 import io
-from petrel_client.client import Client
-client = Client('~/petreloss.conf')
 
 data_root_path = "path_to/niah_data/"
 
@@ -44,11 +40,8 @@ def main(args):
         # image = instance["image"].convert("RGB")
         image_path = instance["image"]
         frame_path = os.path.join(data_root_path, image_path)
-        if "s3://" in data_root_path:
-            img_bytes = client.get(frame_path)
-        else:
-            with open(frame_path, 'rb') as f:
-                img_bytes = f.read()
+        with open(frame_path, 'rb') as f:
+            img_bytes = f.read()
         img = Image.open(io.BytesIO(img_bytes))
         image = img.convert("RGB")   
     

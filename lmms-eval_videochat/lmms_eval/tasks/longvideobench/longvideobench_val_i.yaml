@@ -1,4 +1,4 @@
-dataset_path: /mnt/petrelfs/share_data/lixinhao/lmms-eval_data/LongVideoBench
+dataset_path: lmms-eval_data/LongVideoBench
 dataset_kwargs:
   token: True
   cache_dir: phdd2:s3://LongVideoBench/

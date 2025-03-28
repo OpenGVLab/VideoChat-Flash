@@ -9,6 +9,7 @@ This page provides specific evaluation methods for single-hop and multi-hop need
 **Environment**
 
 Please use a environment with **transformers >= 4.45.1 (to use YARN)**. see [niah_requirements.txt](niah_requirements.txt).
+And to avoid confict, **please don't install XTuner in your environment**, I have copy all useful files in [xtuner](xtuner).
 
 **Model Parameters**
 

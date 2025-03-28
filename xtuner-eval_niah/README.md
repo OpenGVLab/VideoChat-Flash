@@ -8,7 +8,7 @@ This page provides specific evaluation methods for single-hop and multi-hop need
 
 **Environment**
 
-- Please supplement the environment of VideoChat-Flash with the installation of the XTuner. For specific installation methods, please refer to [the homepage of XTuner](https://github.com/InternLM/xtuner).
+Please use a environment with **transformers >= 4.45.1 (to use YARN)**. see [niah_requirements.txt](niah_requirements.txt).
 
 **Model Parameters**
 

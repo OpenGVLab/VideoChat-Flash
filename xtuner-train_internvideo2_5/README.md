@@ -23,3 +23,7 @@ otherwise:
 ```bash
 bash ft_internvideo_2_5.sh
 ```
+
+## Evaluation
+
+Copy the python file in https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B and use [lmms_eval](https://github.com/EvolvingLMMs-Lab/lmms-eval/blob/main/lmms_eval/models/internvideo2_5.py) to evaluate.

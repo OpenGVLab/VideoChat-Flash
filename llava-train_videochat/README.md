@@ -28,6 +28,8 @@ Training time with a 32 A100:
   
 ***We recommend to start from stage3 based on our provided stage2 model to save training cost, and you could use [1/4 stage3 data](data/ablation_short-long_mix_sft.yaml) for ablation (as we do)! You also could ignore stage4 if you don't need a absolute SoTA performance!***
 
+We use slurm to train model on multple machines, **if you only have one machines or you don't use slurm**, please refer to [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT/blob/main/scripts/train/finetune_ov.sh) to modify the scripts.
+
 ### Install
 
 ```bash

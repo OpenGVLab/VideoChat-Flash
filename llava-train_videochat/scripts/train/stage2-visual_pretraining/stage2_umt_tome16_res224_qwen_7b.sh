@@ -45,6 +45,10 @@ srun -p ${PARTITION} \
     --mm_use_im_start_end False \
     --mm_use_im_patch_token False \
     --group_by_modality_length True \
+    --image_aspect_ratio anyres_nopad \
+    --image_grid_pinpoints  "(1x1),...,(6x6)" \
+    --mm_patch_merge_type spatial_nopad \
+    --mm_newline_position nothing \
     --bf16 True \
     --run_name $MID_RUN_NAME \
     --output_dir ./checkpoints/stage2-visual_pretraining/${MID_RUN_NAME} \

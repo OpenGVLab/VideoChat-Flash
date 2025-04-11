@@ -8,7 +8,7 @@ DATA_VERSION="data/stage4_highres_postsft"
 DATA_VERSION_CLEAN=$(basename "$DATA_VERSION")
 
 VISION_MODEL_VERSION="umt-hd-large"
-VISION_MODEL_VERSION="umt-hd-large"
+VISION_MODEL_VERSION_CLEAN="umt-hd-large"
 
 # NOTE Please modify vision_tower="umt-hd-large" in Your_stage3_checkpoint_path/config.json first!
 LLM_VERSION_CLEAN="Qwen2_7B"
@@ -19,7 +19,7 @@ LLM_VERSION_CLEAN=$(basename "$LLM_VERSION")
 mm_projector_type=tome16_mlp_hd64
 PROMPT_VERSION="qwen_2"
 
-MID_RUN_NAME=stage4-${VISION_MODEL_VERSION}-${mm_projector_type}_${LLM_VERSION_CLEAN}_${DATA_VERSION_CLEAN}_$(date +"%Y%m%d_%H%M%S")
+MID_RUN_NAME=stage4-${VISION_MODEL_VERSION_CLEAN}-${mm_projector_type}_${LLM_VERSION_CLEAN}_${DATA_VERSION_CLEAN}_$(date +"%Y%m%d_%H%M%S")
 echo "MID_RUN_NAME: ${MID_RUN_NAME}"
 
 PARTITION='video'

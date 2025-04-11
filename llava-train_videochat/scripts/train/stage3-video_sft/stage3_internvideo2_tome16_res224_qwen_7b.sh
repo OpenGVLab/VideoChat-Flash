@@ -44,6 +44,10 @@ srun -p ${PARTITION} \
     --mm_use_im_start_end False \
     --mm_use_im_patch_token False \
     --group_by_modality_length True \
+    --image_aspect_ratio anyres_nopad \
+    --image_grid_pinpoints  "(1x1),...,(6x6)" \
+    --mm_patch_merge_type spatial_nopad \
+    --mm_newline_position nothing \
     --bf16 True \
     --run_name $MID_RUN_NAME \
     --output_dir ./checkpoints/stage3-video_sft/${MID_RUN_NAME} \
@@ -72,9 +76,9 @@ srun -p ${PARTITION} \
     --frames_upbound 512 \
     --frames_lowbound 64 \
     --time_msg short \
-    --local_num_frames 8 \
+    --local_num_frames 4 \
     --vision_encode_type video_image \
     --sample_type dynamic_fps1 \
-    --mm_local_num_frames 8 \
+    --mm_local_num_frames 4 \
     --verbose_logging True >> ./output_logs/stage3-video_sft/${MID_RUN_NAME}.log
 # You can delete the sdpa attn_implementation if you want to use flash attn

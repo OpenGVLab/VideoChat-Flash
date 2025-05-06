@@ -25,11 +25,14 @@ Training time with a 32 A100:
 - stage2: about 2 day
 - stage3: about 2~3day
 - stage4: about 2~3day
-  
-***We recommend to start from stage3 based on our provided stage2 model to save training cost, and you could use [1/4 stage3 data](data/ablation_short-long_mix_sft.yaml) for ablation (as we do)! You also could ignore stage4 if you don't need a absolute SoTA performance!***
 
-We use slurm to train model on multple machines, **if you only have one machines or you don't use slurm**, please refer to [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT/blob/main/scripts/train/finetune_ov.sh) to modify the scripts.
+### Tips
 
+- ***We recommend to start from stage3 based on our provided stage2 model to save training cost, and you could use [1/4 stage3 data](data/ablation_short-long_mix_sft.yaml) for ablation (as we do)! You also could ignore stage4 if you don't need a absolute SoTA performance!***
+
+- We use slurm to train model on multple machines, **if you only have one machines or you don't use slurm**, please refer to [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT/blob/main/scripts/train/finetune_ov.sh) to modify the scripts.
+
+- If you try to finetuning [UMT-Qwen2_5_1M_7B](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-7B-1M_res224), modify [`max_position_embeddings`](https://huggingface.co/OpenGVLab/VideoChat-Flash-Qwen2_5-7B-1M_res224/blob/main/config.json#L185) to smaller value like 32768 to avoid Cuda OOM!
 ### Install
 
 ```bash

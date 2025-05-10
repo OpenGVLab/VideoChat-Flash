@@ -19,9 +19,10 @@
 
 
 ## :fire: Updates
-- [x] **2025/03/27**:🔥🔥🔥 We release our dataset and evaluation codes for single-hop and multi-hop needle-in-a-haystack!
-- [x] **2025/03/09**:🔥🔥🔥 We release our weights of each training stage [here](https://github.com/OpenGVLab/VideoChat-Flash/blob/main/llava-train_videochat/README.), try to build your VideoChat-Flash on them!
-- [x] **2025/02/25**:🔥🔥🔥 We release our [training data](https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data), [training codes based LLaVA](llava-train_videochat) for VideoChat-Flash and [training codes based XTuner](xtuner-train_internvideo2_5) for finetuning InternVideo2.5.
+- [x] **2025/05/10**:🔥🔥🔥 We release most video of our [training data](https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data), Hope it can be of help to you!
+- [x] **2025/03/27**:🔥🔥 We release our dataset and evaluation codes for single-hop and multi-hop needle-in-a-haystack!
+- [x] **2025/03/09**:🔥🔥 We release our weights of each training stage [here](https://github.com/OpenGVLab/VideoChat-Flash/blob/main/llava-train_videochat/README.), try to build your VideoChat-Flash on them!
+- [x] **2025/02/25**:🔥🔥 We release our [training data](https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data), [training codes based LLaVA](llava-train_videochat) for VideoChat-Flash and [training codes based XTuner](xtuner-train_internvideo2_5) for finetuning InternVideo2.5.
 - [x] **2025/02/12**: 🎉🎉🎉Our VideoChat-Flash-7B@448 has achieved first place on the latest Video Detail Caption Benchmark, [AuroraCap](https://rese1f.github.io/aurora-web/).
 - [x] **2025/01/15**: We provide [evaluation codes](lmms-eval_videochat) for QA & Grounding Benchmark.
 - [x] **2025/01/12**: 🔥🔥🔥Release **VideoChat2-Flash**, a powerfull MLLM built on video encoder ([InternVideo](https://github.com/OpenGVLab/InternVideo)) and LLM ([Qwen](https://github.com/QwenLM/Qwen)).

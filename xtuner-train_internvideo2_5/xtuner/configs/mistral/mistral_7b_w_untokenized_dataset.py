@@ -22,11 +22,11 @@ from xtuner.utils import PROMPT_TEMPLATE
 #                          PART 1  Settings                           #
 #######################################################################
 # Model
-pretrained_model_name_or_path = '/mnt/petrelfs/share_data/basemodel/checkpoints/llm/hf_hub/models--mistralai--Mistral-7B-v0.1/snapshots/5e9c98b96d071dce59368012254c55b0ec6f8658'  # noqa: E501
+pretrained_model_name_or_path = 'checkpoints/llm/hf_hub/models--mistralai--Mistral-7B-v0.1/snapshots/5e9c98b96d071dce59368012254c55b0ec6f8658'  # noqa: E501
 use_varlen_attn = True
 
 # Data
-dataset_folder = '/mnt/petrelfs/share_data/caoweihan/v1_sample_with_legal_cate'
+dataset_folder = 'v1_sample_with_legal_cate'
 prompt_template = PROMPT_TEMPLATE.mistral
 max_length = 32768
 pack_to_max_length = True

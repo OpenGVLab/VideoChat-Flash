@@ -145,9 +145,7 @@ def acc_mutual_info_fn(items):  # This is a passthrough function
     return items
 
 
-# exact_match = evaluate.load("exact_match")
-exact_match = evaluate.load("/mnt/petrelfs/lixinhao/.cache/huggingface/modules/evaluate_modules/metrics/evaluate-metric--exact_match/9d3b67e0c429cd7460b2b05aab53419b48eea369b73e1d9f185a56ca90c373d4/exact_match.py")
-
+exact_match = evaluate.load("exact_match")
 
 @register_metric(
     metric="exact_match",

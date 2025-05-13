@@ -25,7 +25,7 @@ pretrained_model_name_or_path = 'internlm/internlm2-7b'
 use_varlen_attn = True
 
 # Data
-dataset_folder = '/mnt/petrelfs/share_data/caoweihan/v1_sample_with_legal_cate'  # noqa: E501
+dataset_folder = 'v1_sample_with_legal_cate'  # noqa: E501
 prompt_template = PROMPT_TEMPLATE.internlm2_chat
 max_length = 32768
 pack_to_max_length = True

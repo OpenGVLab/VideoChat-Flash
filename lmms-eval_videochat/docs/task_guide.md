@@ -15,7 +15,7 @@ Generation-based tasks:
 - MME (`lmms_eval/tasks/mme/mme.yaml`)
 
 ```yaml
-dataset_path:  /mnt/petrelfs/share_data/videointern/annotations/lmms-lab/MME
+dataset_path:  lmms-lab/MME
 dataset_kwargs:
   token: True
 task: "mme"
@@ -58,7 +58,7 @@ PPL-based tasks:
 - Seedbench (`lmms_eval/tasks/seedbench/seedbench_ppl.yaml`)
 
 ```yaml
-dataset_path:  /mnt/petrelfs/share_data/videointern/annotations/lmms-lab/SEED-Bench
+dataset_path:  lmms-lab/SEED-Bench
 dataset_kwargs:
   token: True
 task: "seedbench_ppl"

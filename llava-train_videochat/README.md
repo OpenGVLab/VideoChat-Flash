@@ -64,4 +64,4 @@ bash scripts/train/stage4_highres_postft/stage4_umt_tome16_res448_qwen_7b.sh
 
 ## Evaluation
 
-Overwrite your checkpoints directory with the configurations and Python files from OpenGVLab/VideoChat-Flash, and then you can use the lmms-eval_videochat we provided for evaluation.
+Overwrite your checkpoints directory with the configurations (json) and Python files from OpenGVLab/VideoChat-Flash, and then you can use the lmms-eval_videochat we provided for evaluation.

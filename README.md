@@ -19,6 +19,7 @@
 
 
 ## :fire: Updates
+- [x] **2025/06/13**: 🎉🎉🎉Our model achieves promising results on the [VideoEval-Pro](https://arxiv.org/abs/2505.14640) benchmark focused on long video understanding!
 - [x] **2025/05/10**:🔥🔥🔥 We release most video of our [training data](https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data), Hope it can be of help to you!
 - [x] **2025/03/27**:🔥🔥 We release our dataset and evaluation codes for single-hop and multi-hop needle-in-a-haystack!
 - [x] **2025/03/09**:🔥🔥 We release our weights of each training stage [here](https://github.com/OpenGVLab/VideoChat-Flash/blob/main/llava-train_videochat/README.), try to build your VideoChat-Flash on them!

@@ -32,8 +32,8 @@
 
 ## 📑 Future Plan
 
-- [ ] lmdeploy/vllm support for videochat-flash and InternVideo2.5
-- [ ] LoRA finetuning training code for videochat-flash and InternVideo2.5
+- [ ] lmdeploy/vllm support for Videochat-Flash and InternVideo2.5
+- [ ] LoRA finetuning training code for Videochat-Flash and InternVideo2.5
 - [ ] Mixing image/video training code for InternVideo2.5
 - [ ] Faster training code with XTuner for VideoChat-Flash
 

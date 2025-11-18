@@ -23,9 +23,9 @@
             "multi/niah_70_2_COCO_val2014_000000350505.jpg",
             "multi/niah_70_1_COCO_val2014_000000198775.jpg"
         ],
-        "question1": "Find the frame of how many people are able to fit into this itty-bitty car? Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a man that is holding some kind of surfboard\n(B) A pair of scissors, thread, construction paper and a cell phone.\n(C) Boy in the motion of swinging at an incoming baseball. \n(D) A woman tennise player standing at the service line and throwing a tennis ball up in the air to serve it.\nOnly give the best option. Best option: (",
+        "question1": "Find the frame of a tiny red and black car. Locate the final frame based on the instructions in the image, and choose the captions that best describe the frame: \nOptions: (A) a man that is holding some kind of surfboard\n(B) A pair of scissors, thread, construction paper and a cell phone.\n(C) Boy in the motion of swinging at an incoming baseball. \n(D) A woman tennise player standing at the service line and throwing a tennis ball up in the air to serve it.\nOnly give the best option. Best option: (",
         "answer1": "B",
-        "question2": "Find the frame of how many people are able to fit into this itty-bitty car? Locate the final frame based on the instructions in the image, and answer the following question based on the final frame: what is the color of the scissors\nOptions: (A) yellow\n(B) brown\n(C) purple\n(D) red\nOnly give the best option. Best option: (",
+        "question2": "Find the frame of a tiny red and black car. Locate the final frame based on the instructions in the image, and answer the following question based on the final frame: what is the color of the scissors\nOptions: (A) yellow\n(B) brown\n(C) purple\n(D) red\nOnly give the best option. Best option: (",
         "answer2": "D"
     },
     {
